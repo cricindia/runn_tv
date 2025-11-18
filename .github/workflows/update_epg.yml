@@ -9,11 +9,11 @@ jobs:
   build-epg:
     runs-on: ubuntu-latest
     steps:
-      # 1. Checks out your public repo
+      # 1. Checks out your public repo so it can access channels.json
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # 2. Sets up Python
+      # 2. Sets up the Python environment
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -25,12 +25,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. *** THE MAGIC STEP ***
-      # Creates the .py file from your secret
+      # 4. *** THIS IS THE NEW, FIXED STEP ***
+      #    Loads your secret script into a file
       - name: Load Python script from Secret
-        run: echo "${{ secrets.PYTHON_SCRIPT }}" > generate_xmltv.py
-
-      # 5. Runs the .py file (which is NOT in your repo)
+        run: |
+          cat << 'END_OF_SCRIPT' > generate_xmltv.py
+          ${{ secrets.PYTHON_SCRIPT }}
+          END_OF_SCRIPT
+        
+      # 5. Runs the Python script
       - name: Run EPG generator script
         run: python generate_xmltv.py
 
