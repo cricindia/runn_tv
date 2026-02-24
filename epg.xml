@@ -192,31 +192,6 @@
     <display-name>XTREM Sports</display-name>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/thumbnail/c72df825-0310-4388-bdc4-26855d832871.png" />
   </channel>
-  <programme start="20260224180000 +0530" stop="20260224190000 +0530" channel="58">
-    <title lang="en">Super Swag</title>
-    <desc lang="en">Enjoy the most famous non film album song on 9X Jalwa. This song band will play various moods of non film songs.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/1958dd8f-0212-4801-addc-af06a0d91aab.png" />
-  </programme>
-  <programme start="20260224190000 +0530" stop="20260224200000 +0530" channel="58">
-    <title lang="en">Jalwa Drive Wali Vibe</title>
-    <desc lang="en">Show playing feel good &amp; chill tracks</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/3918f426-bddd-40cf-b2be-d597a3ff20b7.png" />
-  </programme>
-  <programme start="20260224200000 +0530" stop="20260224210000 +0530" channel="58">
-    <title lang="en">Super Swag</title>
-    <desc lang="en">Enjoy the most famous non film album song on 9X Jalwa. This song band will play various moods of non film songs.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/1958dd8f-0212-4801-addc-af06a0d91aab.png" />
-  </programme>
-  <programme start="20260224210000 +0530" stop="20260224220000 +0530" channel="58">
-    <title lang="en">Jalwa Housefull</title>
-    <desc lang="en">The song band will play melodious and hit songs from the era 90s and 2000s plus latest The music band will play a mix of all Bollywood personalities songs</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/578dfe54-5652-4d27-ab9b-092a9f0001b5.png" />
-  </programme>
-  <programme start="20260224220000 +0530" stop="20260224235959 +0530" channel="58">
-    <title lang="en">Jalwa Classics</title>
-    <desc lang="en">Enjoy your favorite bollywood classic songs on 9X Jalwa.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/1cde25ef-1c9e-4955-8cf7-e46a2e88e75e.png" />
-  </programme>
   <programme start="20260225000000 +0530" stop="20260225060000 +0530" channel="58">
     <title lang="en">Raat Bhar</title>
     <desc lang="en">Enjoy 5 hours of Non- stop Hits</desc>
@@ -317,25 +292,30 @@
     <desc lang="en">Enjoy the most melodious film album song on 9X Jalwa.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/bb3b41f7-3970-43fa-9b95-d22089e4a9bc.png" />
   </programme>
-  <programme start="20260224170000 +0530" stop="20260224190000 +0530" channel="57">
-    <title lang="en">9xm Bazillion Views</title>
-    <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/f27f4cde-8b5d-49a7-ab80-63d877f6b937.png" />
+  <programme start="20260226170000 +0530" stop="20260226180000 +0530" channel="58">
+    <title lang="en">Jalwa Dhating Dance (breakless)</title>
+    <desc lang="en">The music band will celebrate Bollywood personalities who are good dancers The song band will play dance pluspeppy numbers from 90s to 2000s and latest</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/af8081ca-bb47-4df0-be0e-a533cc389e5d.png" />
   </programme>
-  <programme start="20260224190000 +0530" stop="20260224200000 +0530" channel="57">
-    <title lang="en">9xm Super Swag</title>
-    <desc lang="en">A Musical hour with all time favourite super hit film songs.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/361ca34c-96b9-4f8e-8141-8b399c52f234.png" />
+  <programme start="20260226180000 +0530" stop="20260226190000 +0530" channel="58">
+    <title lang="en">Super Swag</title>
+    <desc lang="en">Enjoy the most famous non film album song on 9X Jalwa. This song band will play various moods of non film songs.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/1958dd8f-0212-4801-addc-af06a0d91aab.png" />
   </programme>
-  <programme start="20260224200000 +0530" stop="20260224210000 +0530" channel="57">
-    <title lang="en">9xm Shayarism</title>
-    <desc lang="en">The show where you can enjoy the trending shayaries with soothing and romantic 90's Hits</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/poster/122344b9-f0ef-443c-9ab7-11a6a036ff16.png" />
+  <programme start="20260226190000 +0530" stop="20260226200000 +0530" channel="58">
+    <title lang="en">Jalwa Drive Wali Vibe</title>
+    <desc lang="en">Show playing feel good &amp; chill tracks</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/3918f426-bddd-40cf-b2be-d597a3ff20b7.png" />
   </programme>
-  <programme start="20260224210000 +0530" stop="20260224235900 +0530" channel="57">
-    <title lang="en">9xm Music Dhar Hai</title>
-    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen  Bollywood super hits.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/005a5ab7-a33d-478e-b01c-91b2c1ff3b36.png" />
+  <programme start="20260226200000 +0530" stop="20260226210000 +0530" channel="58">
+    <title lang="en">Super Swag</title>
+    <desc lang="en">Enjoy the most famous non film album song on 9X Jalwa. This song band will play various moods of non film songs.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/1958dd8f-0212-4801-addc-af06a0d91aab.png" />
+  </programme>
+  <programme start="20260226210000 +0530" stop="20260226220000 +0530" channel="58">
+    <title lang="en">Jalwa Housefull</title>
+    <desc lang="en">The song band will play melodious and hit songs from the era 90s and 2000s plus latest The music band will play a mix of all Bollywood personalities songs</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/578dfe54-5652-4d27-ab9b-092a9f0001b5.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225050000 +0530" channel="57">
     <title lang="en">9xm Raat Bhar</title>
@@ -442,30 +422,25 @@
     <desc lang="en">The show where you can enjoy the songs that have millions and millions of views. Songs that have a BAZZZZilion views.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/f27f4cde-8b5d-49a7-ab80-63d877f6b937.png" />
   </programme>
-  <programme start="20260224174500 +0530" stop="20260224190000 +0530" channel="54">
-    <title lang="en">Best Of Aap Ki Adalat</title>
-    <desc lang="en">Best of Aap ki Adalat</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
+  <programme start="20260226190000 +0530" stop="20260226200000 +0530" channel="57">
+    <title lang="en">9xm Reelstar</title>
+    <desc lang="en">Enjoy your favourite songs with trending Reels, on 9XM Reelstar</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/f97ca914-1d23-4d4b-bf2e-0385983c6653.png" />
   </programme>
-  <programme start="20260224190000 +0530" stop="20260224201500 +0530" channel="54">
-    <title lang="en">Best Of Aap Ki Adalat</title>
-    <desc lang="en">Best of Aap ki Adalat</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
+  <programme start="20260226200000 +0530" stop="20260226210000 +0530" channel="57">
+    <title lang="en">9xm Shayarism</title>
+    <desc lang="en">The show where you can enjoy the trending shayaries with soothing and romantic 90's Hits</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/poster/122344b9-f0ef-443c-9ab7-11a6a036ff16.png" />
   </programme>
-  <programme start="20260224201500 +0530" stop="20260224213000 +0530" channel="54">
-    <title lang="en">Best Of Aap Ki Adalat</title>
-    <desc lang="en">Best of Aap ki Adalat</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
+  <programme start="20260226210000 +0530" stop="20260226235900 +0530" channel="57">
+    <title lang="en">9xm Music Dhar Hai</title>
+    <desc lang="en">9XM MUSIC IDHAR HAI is a show of evergreen  Bollywood super hits.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/005a5ab7-a33d-478e-b01c-91b2c1ff3b36.png" />
   </programme>
-  <programme start="20260224213000 +0530" stop="20260224220000 +0530" channel="54">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">To Be Announced</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
-  </programme>
-  <programme start="20260224220000 +0530" stop="20260224231500 +0530" channel="54">
-    <title lang="en">Aap Ki Adalat Live</title>
-    <desc lang="en">Aap ki Adalat Live</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
+  <programme start="20260227000000 +0530" stop="20260227050000 +0530" channel="57">
+    <title lang="en">9xm Raat Bhar</title>
+    <desc lang="en">A show with no breaks, playing non-stop latest Bollywood  &amp; super hits.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNN9XTV/poster/mobile/hero/11eaa44a-8daf-49ba-98dd-bd0f6c357603.png" />
   </programme>
   <programme start="20260224231500 +0530" stop="20260225003000 +0530" channel="54">
     <title lang="en">Best Of Aap Ki Adalat</title>
@@ -567,65 +542,30 @@
     <desc lang="en">Best of Aap ki Adalat</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
   </programme>
-  <programme start="20260224180000 +0530" stop="20260224183000 +0530" channel="65">
-    <title lang="en">Asmita Newsroom Live</title>
-    <desc lang="en">All major news of Gujarat from news room.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
+  <programme start="20260226060000 +0530" stop="20260226071500 +0530" channel="54">
+    <title lang="en">Best Of Aap Ki Adalat</title>
+    <desc lang="en">Best of Aap ki Adalat</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
   </programme>
-  <programme start="20260224183000 +0530" stop="20260224190000 +0530" channel="65">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">Each news in 11 seconds in "fatafat" format / fast bulletin format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
+  <programme start="20260226071500 +0530" stop="20260226083000 +0530" channel="54">
+    <title lang="en">Best Of Aap Ki Adalat</title>
+    <desc lang="en">Best of Aap ki Adalat</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
   </programme>
-  <programme start="20260224190000 +0530" stop="20260224193000 +0530" channel="65">
-    <title lang="en">Aapani Khabar</title>
-    <desc lang="en">All the big news of Gujarat in short package format (full story).</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
+  <programme start="20260226083000 +0530" stop="20260226094500 +0530" channel="54">
+    <title lang="en">Best Of Aap Ki Adalat</title>
+    <desc lang="en">Best of Aap ki Adalat</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
   </programme>
-  <programme start="20260224193000 +0530" stop="20260224200000 +0530" channel="65">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">Each news in 11 seconds in "fatafat" format / fast bulletin format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
+  <programme start="20260226094500 +0530" stop="20260226100000 +0530" channel="54">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
   </programme>
-  <programme start="20260224200000 +0530" stop="20260224203000 +0530" channel="65">
-    <title lang="en">Hun To Bolish</title>
-    <desc lang="en">A program raising voice against the burning issues of Gujarat, hosted by Ronak Patel.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
-  </programme>
-  <programme start="20260224203000 +0530" stop="20260224210000 +0530" channel="65">
-    <title lang="en">Hun To Bolish</title>
-    <desc lang="en">A program raising voice against the burning issues of Gujarat, hosted by Ronak Patel.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
-  </programme>
-  <programme start="20260224210000 +0530" stop="20260224213000 +0530" channel="65">
-    <title lang="en">Top 50</title>
-    <desc lang="en">News of the country, abroad and Gujarat in "top 50" format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
-  </programme>
-  <programme start="20260224213000 +0530" stop="20260224220000 +0530" channel="65">
-    <title lang="en">Mudda Ni Vaat</title>
-    <desc lang="en">Talking about the issues affecting the entire Gujarat in full story format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
-  </programme>
-  <programme start="20260224220000 +0530" stop="20260224223000 +0530" channel="65">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">Each news in 11 seconds in "fatafat" format / fast bulletin format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
-  </programme>
-  <programme start="20260224223000 +0530" stop="20260224230000 +0530" channel="65">
-    <title lang="en">Aapni Vat</title>
-    <desc lang="en">Important stories of the day from the State.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
-  </programme>
-  <programme start="20260224230000 +0530" stop="20260224233000 +0530" channel="65">
-    <title lang="en">Top 50</title>
-    <desc lang="en">News of the country, abroad and Gujarat in "top 50" format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
-  </programme>
-  <programme start="20260224233000 +0530" stop="20260225000000 +0530" channel="65">
-    <title lang="en">Samachar Shatak</title>
-    <desc lang="en">Each news in 11 seconds in "Shatak" format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
+  <programme start="20260226100000 +0530" stop="20260226111500 +0530" channel="54">
+    <title lang="en">Best Of Aap Ki Adalat</title>
+    <desc lang="en">Best of Aap ki Adalat</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Mobile/poster/6a3948be-38e6-4e14-bcb3-3f603a261e09.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225003000 +0530" channel="65">
     <title lang="en">Mudda Ni Vaat</title>
@@ -692,80 +632,65 @@
     <desc lang="en">Program of devotional music.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224175800 +0530" stop="20260224181500 +0530" channel="64">
-    <title lang="en">Chaufer Maharashtra</title>
-    <desc lang="en">Comprehensive news coverage from all corners of Maharashtra.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225063000 +0530" stop="20260225070000 +0530" channel="65">
+    <title lang="en">Bhakti Na Sur</title>
+    <desc lang="en">Program of devotional music.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224181500 +0530" stop="20260224182800 +0530" channel="64">
-    <title lang="en">Top 25</title>
-    <desc lang="en">Top 25 News of the day are presented in this fast news segment.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225070000 +0530" stop="20260225073000 +0530" channel="65">
+    <title lang="en">Bhakti Na Sur</title>
+    <desc lang="en">Program of devotional music.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224182800 +0530" stop="20260224184800 +0530" channel="64">
-    <title lang="en">Maharashtra Superfast</title>
-    <desc lang="en">A fast news segment covering highlights of the day  from Maharashtra.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225073000 +0530" stop="20260225080000 +0530" channel="65">
+    <title lang="en">Bhakti Na Sur</title>
+    <desc lang="en">Program of devotional music.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224184800 +0530" stop="20260224185800 +0530" channel="64">
-    <title lang="en">Job Majha</title>
-    <desc lang="en">A unique segment giving updates about employment opportunities in public and private sector.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225080000 +0530" stop="20260225083000 +0530" channel="65">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">Each news in 11 seconds in "fatafat" format / fast bulletin format.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224185800 +0530" stop="20260224192800 +0530" channel="64">
-    <title lang="en">Maharashtra Desha</title>
-    <desc lang="en">The latest updates and trending news happened through out the day are shown in this segment.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225083000 +0530" stop="20260225090000 +0530" channel="65">
+    <title lang="en">Top News</title>
+    <desc lang="en">Tnop news of the country, abroad and Gujarat.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224192800 +0530" stop="20260224195800 +0530" channel="64">
-    <title lang="en">City 60</title>
-    <desc lang="en">Top 60 News of the day from Cities across the State are presented in a quick news format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225090000 +0530" stop="20260225093000 +0530" channel="65">
+    <title lang="en">Asmita News</title>
+    <desc lang="en">News of the country, abroad and Gujarat.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224195800 +0530" stop="20260224203000 +0530" channel="64">
-    <title lang="en">Zero Hour</title>
-    <desc lang="en">Interactive show featuring audience insights, expert discussions, and an editorial timepiece.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225093000 +0530" stop="20260225100000 +0530" channel="65">
+    <title lang="en">Samachar Shatak</title>
+    <desc lang="en">Each news in 11 seconds in "Shatak" format.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224203000 +0530" stop="20260224205800 +0530" channel="64">
-    <title lang="en">Zero Hour</title>
-    <desc lang="en">Interactive show featuring audience insights, expert discussions, and an editorial timepiece.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225100000 +0530" stop="20260225103000 +0530" channel="65">
+    <title lang="en">Asmita News</title>
+    <desc lang="en">News of the country, abroad and Gujarat.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224205800 +0530" stop="20260224212800 +0530" channel="64">
-    <title lang="en">Special Report</title>
-    <desc lang="en">Special Report</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225103000 +0530" stop="20260225110000 +0530" channel="65">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">Each news in 11 seconds in "fatafat" format / fast bulletin format.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224212800 +0530" stop="20260224215800 +0530" channel="64">
-    <title lang="en">Special Report</title>
-    <desc lang="en">Special Report</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225110000 +0530" stop="20260225113000 +0530" channel="65">
+    <title lang="en">Asmita News</title>
+    <desc lang="en">News of the country, abroad and Gujarat.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224215800 +0530" stop="20260224221500 +0530" channel="64">
-    <title lang="en">10 Chya Batmya</title>
-    <desc lang="en">This Shows the latest economic, political &amp; social news, sports news, updates &amp; developments covering primarily the national news &amp; the news from around Maharashtra.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225113000 +0530" stop="20260225120000 +0530" channel="65">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">Each news in 11 seconds in "fatafat" format / fast bulletin format.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
-  <programme start="20260224221500 +0530" stop="20260224222800 +0530" channel="64">
-    <title lang="en">Top 25</title>
-    <desc lang="en">Top 25 News of the day are presented in this fast news segment.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
-  </programme>
-  <programme start="20260224222800 +0530" stop="20260224225800 +0530" channel="64">
-    <title lang="en">10 Chya Batmya</title>
-    <desc lang="en">This Shows the latest economic, political &amp; social news, sports news, updates &amp; developments covering primarily the national news &amp; the news from around Maharashtra.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
-  </programme>
-  <programme start="20260224225800 +0530" stop="20260224232800 +0530" channel="64">
-    <title lang="en">Mumbai East West</title>
-    <desc lang="en">Brings news from the corners of the city of Mumbai.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
-  </programme>
-  <programme start="20260224232800 +0530" stop="20260225000000 +0530" channel="64">
-    <title lang="en">Special Report</title>
-    <desc lang="en">Special Report</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  <programme start="20260225120000 +0530" stop="20260225123000 +0530" channel="65">
+    <title lang="en">Asmita News</title>
+    <desc lang="en">News of the country, abroad and Gujarat.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/poster/7282bc7e-4767-48ac-a190-b1d97809fbd3.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225003000 +0530" channel="64">
     <title lang="en">Divasbharatlya Baatmya</title>
@@ -817,45 +742,80 @@
     <desc lang="en">Fast news segment focusing on rural areas, covering highlights from various districts across the state.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224180000 +0530" stop="20260224183000 +0530" channel="20">
-    <title lang="en">Elaan E Jung</title>
-    <desc lang="en">Daily Bulletin covering all the stories around the elections. Stories from hot seats.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225064500 +0530" stop="20260225065800 +0530" channel="64">
+    <title lang="en">Namskar Maharastra</title>
+    <desc lang="en">The host presents the latest sports, political and social news and updates from India and around the world.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224183000 +0530" stop="20260224193000 +0530" channel="20">
-    <title lang="en">Seedha Sawaal</title>
-    <desc lang="en">A 1 hour debate program featuring prominent panelists from diverse perspectives, discussing the most pressing issues.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225065800 +0530" stop="20260225072800 +0530" channel="64">
+    <title lang="en">7 Chya 70 Batmya</title>
+    <desc lang="en">Top 70 News of the day are presented in this fast news segment.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224193000 +0530" stop="20260224203000 +0530" channel="20">
-    <title lang="en">Bharat Ki Baat</title>
-    <desc lang="en">1 hour long political show, minutely explaining the political happenings across the country</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225072800 +0530" stop="20260225074800 +0530" channel="64">
+    <title lang="en">Namskar Maharastra</title>
+    <desc lang="en">The host presents the latest sports, political and social news and updates from India and around the world.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224203000 +0530" stop="20260224210000 +0530" channel="20">
-    <title lang="en">Public Interest</title>
-    <desc lang="en">1 hour long show explaining and highlighting those issues which are beyond only politics and that concern the public.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225074800 +0530" stop="20260225075800 +0530" channel="64">
+    <title lang="en">Majha Goan Majha Jilha</title>
+    <desc lang="en">Fast news segment focusing on rural areas, covering highlights from various districts across the state.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224210000 +0530" stop="20260224220000 +0530" channel="20">
-    <title lang="en">24 Ghante 24 Reporter</title>
-    <desc lang="en">A show with 24 reporters who cover major events directly from the ground, providing viewers with a comprehensive view of significant happenings nationwide</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225075800 +0530" stop="20260225082800 +0530" channel="64">
+    <title lang="en">8 Chya 80 Batmya</title>
+    <desc lang="en">Top 80 News of the day are presented in this fast news segment.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224220000 +0530" stop="20260224223000 +0530" channel="20">
-    <title lang="en">Special Report</title>
-    <desc lang="en">A package based show that will be picking up the big news story of the day and present it as a complete special package replete with analysis and detailing.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225082800 +0530" stop="20260225085800 +0530" channel="64">
+    <title lang="en">Namaskar Maharashtra</title>
+    <desc lang="en">The host presents the latest sports, political and social news and updates from India and around the world.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224223000 +0530" stop="20260224230000 +0530" channel="20">
-    <title lang="en">Sansani</title>
-    <desc lang="en">Award winning show that shows the crimes across the country in an engaging format.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225085800 +0530" stop="20260225092800 +0530" channel="64">
+    <title lang="en">9 Secondat Batmi</title>
+    <desc lang="en">Fast News Segment wherein the anchor presents news in 9 seconds.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
-  <programme start="20260224230000 +0530" stop="20260225000000 +0530" channel="20">
-    <title lang="en">Special Report</title>
-    <desc lang="en">A package based show that will be picking up the big news story of the day and present it as a complete special package replete with analysis and detailing.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  <programme start="20260225092800 +0530" stop="20260225095800 +0530" channel="64">
+    <title lang="en">Breakfast News</title>
+    <desc lang="en">This segment is the one-stop shop for the morning dose of news required to stay informed &amp; stay current.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  </programme>
+  <programme start="20260225095800 +0530" stop="20260225102800 +0530" channel="64">
+    <title lang="en">100 Headlines</title>
+    <desc lang="en">Top 100 News of the day are presented in this fast news segment</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  </programme>
+  <programme start="20260225102800 +0530" stop="20260225105800 +0530" channel="64">
+    <title lang="en">Namaskar Maharashtra</title>
+    <desc lang="en">The host presents the latest sports, political and social news and updates from India and around the world.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  </programme>
+  <programme start="20260225105800 +0530" stop="20260225112800 +0530" channel="64">
+    <title lang="en">City Sixty</title>
+    <desc lang="en">Top 60 News of the day from Cities across the State are presented in a quick news format.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  </programme>
+  <programme start="20260225112800 +0530" stop="20260225115800 +0530" channel="64">
+    <title lang="en">Namaskar Maharashtra</title>
+    <desc lang="en">The host presents the latest sports, political and social news and updates from India and around the world.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  </programme>
+  <programme start="20260225115800 +0530" stop="20260225122800 +0530" channel="64">
+    <title lang="en">Batmyancha Ardhashatak</title>
+    <desc lang="en">Top 50 News of the day are presented in this fast news segment.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  </programme>
+  <programme start="20260225122800 +0530" stop="20260225125800 +0530" channel="64">
+    <title lang="en">Duparchya Batmya</title>
+    <desc lang="en">An afternoon special segment delivers the latest and most significant happenings of the day.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
+  </programme>
+  <programme start="20260225125800 +0530" stop="20260225130500 +0530" channel="64">
+    <title lang="en">Duparchya Batmya</title>
+    <desc lang="en">An afternoon special segment delivers the latest and most significant happenings of the day.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/poster/f11a3835-06e0-4f4a-bb8d-6eb3e62481c7.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225003000 +0530" channel="20">
     <title lang="en">Advertorial</title>
@@ -942,20 +902,45 @@
     <desc lang="en">A 1 hour debate program featuring prominent panelists from diverse perspectives, discussing the most pressing issues.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224170000 +0530" stop="20260224200000 +0530" channel="93">
-    <title lang="en">Amrit Versha</title>
-    <desc lang="en">Melodious bhajans by renowned singers.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/poster/ea3cce5e-99d7-4e29-b235-814cfdc5e73c.png" />
+  <programme start="20260225193000 +0530" stop="20260225203000 +0530" channel="20">
+    <title lang="en">Bharat Ki Baat</title>
+    <desc lang="en">1 hour long political show, minutely explaining the political happenings across the country</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224200000 +0530" stop="20260224220000 +0530" channel="93">
-    <title lang="en">Tu Hi Tu</title>
-    <desc lang="en">Melodious bhajans by renowned singers.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/poster/ea3cce5e-99d7-4e29-b235-814cfdc5e73c.png" />
+  <programme start="20260225203000 +0530" stop="20260225210000 +0530" channel="20">
+    <title lang="en">Public Interest</title>
+    <desc lang="en">1 hour long show explaining and highlighting those issues which are beyond only politics and that concern the public.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224220000 +0530" stop="20260225000000 +0530" channel="93">
-    <title lang="en">Amrit Vani</title>
-    <desc lang="en">Melodious bhajans by renowned singers.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/poster/ea3cce5e-99d7-4e29-b235-814cfdc5e73c.png" />
+  <programme start="20260225210000 +0530" stop="20260225220000 +0530" channel="20">
+    <title lang="en">24 Ghante 24 Reporter</title>
+    <desc lang="en">A show with 24 reporters who cover major events directly from the ground, providing viewers with a comprehensive view of significant happenings nationwide</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  </programme>
+  <programme start="20260225220000 +0530" stop="20260225223000 +0530" channel="20">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A package based show that will be picking up the big news story of the day and present it as a complete special package replete with analysis and detailing.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  </programme>
+  <programme start="20260225223000 +0530" stop="20260225230000 +0530" channel="20">
+    <title lang="en">Sansani</title>
+    <desc lang="en">Award winning show that shows the crimes across the country in an engaging format.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  </programme>
+  <programme start="20260225230000 +0530" stop="20260226000000 +0530" channel="20">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A package based show that will be picking up the big news story of the day and present it as a complete special package replete with analysis and detailing.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  </programme>
+  <programme start="20260226000000 +0530" stop="20260226003000 +0530" channel="20">
+    <title lang="en">Advertorial</title>
+    <desc lang="en">Advertorial</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
+  </programme>
+  <programme start="20260226003000 +0530" stop="20260226063000 +0530" channel="20">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A package based show that will be picking up the big news story of the day and present it as a complete special package replete with analysis and detailing.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Mobile/poster/heroart_mobile.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225033000 +0530" channel="93">
     <title lang="en">Sunder Kand Paath</title>
@@ -1067,55 +1052,20 @@
     <desc lang="en">Melodious bhajans by renowned singers.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/poster/ea3cce5e-99d7-4e29-b235-814cfdc5e73c.png" />
   </programme>
-  <programme start="20260224180000 +0530" stop="20260224183000 +0530" channel="66">
-    <title lang="en">Chalisa Sangrah</title>
-    <desc lang="en">Different types of Chalisa</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
+  <programme start="20260227050000 +0530" stop="20260227080000 +0530" channel="93">
+    <title lang="en">Amrit Versha</title>
+    <desc lang="en">Melodious bhajans by renowned singers.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/poster/ea3cce5e-99d7-4e29-b235-814cfdc5e73c.png" />
   </programme>
-  <programme start="20260224183000 +0530" stop="20260224190000 +0530" channel="66">
-    <title lang="en">Aartiyan</title>
-    <desc lang="en">Aarties of Vishu ji, Durga ji , Lord Ganesh Ji, Hanuman Ji, Shiv Ji, Sai Ji &amp; many more</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
+  <programme start="20260227080000 +0530" stop="20260227093000 +0530" channel="93">
+    <title lang="en">Sunder Kand Paath</title>
+    <desc lang="en">This lesson is recited by Hindus, preferably on Tuesdays or Saturdays, these days having been earmarked for special prayers to Hanuman.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/poster/ea3cce5e-99d7-4e29-b235-814cfdc5e73c.png" />
   </programme>
-  <programme start="20260224190000 +0530" stop="20260224193000 +0530" channel="66">
-    <title lang="en">Aarti</title>
-    <desc lang="en">The aartis sung in the Hindu religion are telecasted</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
-  </programme>
-  <programme start="20260224193000 +0530" stop="20260224200000 +0530" channel="66">
-    <title lang="en">Prem Dhavani</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
-  </programme>
-  <programme start="20260224200000 +0530" stop="20260224210000 +0530" channel="66">
-    <title lang="en">Prem Dhavani</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
-  </programme>
-  <programme start="20260224210000 +0530" stop="20260224213000 +0530" channel="66">
-    <title lang="en">Arpan</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
-  </programme>
-  <programme start="20260224213000 +0530" stop="20260224220000 +0530" channel="66">
-    <title lang="en">Prem Dhavani</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
-  </programme>
-  <programme start="20260224220000 +0530" stop="20260224230000 +0530" channel="66">
-    <title lang="en">Recorded Spiritual Events</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
-  </programme>
-  <programme start="20260224230000 +0530" stop="20260224233000 +0530" channel="66">
-    <title lang="en">Arpan</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
-  </programme>
-  <programme start="20260224233000 +0530" stop="20260224235900 +0530" channel="66">
-    <title lang="en">Prem Dhavani</title>
-    <desc lang="en">Melodious bhajans by renowned singers</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
+  <programme start="20260227093000 +0530" stop="20260227130000 +0530" channel="93">
+    <title lang="en">Amrit Versha</title>
+    <desc lang="en">Melodious bhajans by renowned singers.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/poster/ea3cce5e-99d7-4e29-b235-814cfdc5e73c.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225010000 +0530" channel="66">
     <title lang="en">Prem Dhavani</title>
@@ -1192,65 +1142,55 @@
     <desc lang="en">Melodious bhajans by renowned singers</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224175829 +0530" stop="20260224182912 +0530" channel="94">
-    <title lang="en">Super Bheem Khilone Gayab &amp; Dragonpur Ka Daanav</title>
-    <desc lang="en">Sky Dragon's gang outsmarts Tezzbot, a fast space thief, and captures him.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/487586f3-d99c-4cbf-9526-b0f01c5d1ee4.png" />
+  <programme start="20260225110000 +0530" stop="20260225120000 +0530" channel="66">
+    <title lang="en">Shirngar Ras</title>
+    <desc lang="en">Melodious bhajans by renowned singers</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224182912 +0530" stop="20260224185925 +0530" channel="94">
-    <title lang="en">Super Bheem Grah Sona &amp; The Great Space Train Robbery</title>
-    <desc lang="en">Sky Dragon and Bheem fight Chumbak Dada and his golden robots to save Grah Sona.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/a3e2d179-e1f4-4b05-940a-9c92f5cd0845.png" />
+  <programme start="20260225120000 +0530" stop="20260225130000 +0530" channel="66">
+    <title lang="en">Prem Dhavani</title>
+    <desc lang="en">Melodious bhajans by renowned singers</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224185926 +0530" stop="20260224192915 +0530" channel="94">
-    <title lang="en">Mighty Raju Trophy Trouble &amp; Spare Parts For Cheeky</title>
-    <desc lang="en">Raju leads his football team and thwarts a bomb threat from a criminal.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/b1c5c9e9-0e88-40e7-ab69-e2e49ff364ad.png" />
+  <programme start="20260225130000 +0530" stop="20260225140000 +0530" channel="66">
+    <title lang="en">Prem Dhavani</title>
+    <desc lang="en">Melodious bhajans by renowned singers</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224192915 +0530" stop="20260224195901 +0530" channel="94">
-    <title lang="en">Mighty Raju Sab Hain Super Hero &amp; Tresure Hunt</title>
-    <desc lang="en">Kids dress as superheroes; Mighty Raju defeats Spider, uniting all fans.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/70f134c2-4eb9-437e-99a4-b789958f1ca9.png" />
+  <programme start="20260225140000 +0530" stop="20260225150000 +0530" channel="66">
+    <title lang="en">Prem Dhavani</title>
+    <desc lang="en">Melodious bhajans by renowned singers</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224195901 +0530" stop="20260224202914 +0530" channel="94">
-    <title lang="en">Krishna Aur Balram Rescuing River Yamuna &amp; Wish Fulfilling Cow</title>
-    <desc lang="en">Krishna and Balram rescue Yamuna Devi from a demon's captivity, restoring water to Vrindavan.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/d1874858-5993-462b-b4e8-e247f565d7bc.png" />
+  <programme start="20260225150000 +0530" stop="20260225153000 +0530" channel="66">
+    <title lang="en">Prem Dhavani</title>
+    <desc lang="en">Melodious bhajans by renowned singers</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224202915 +0530" stop="20260224205859 +0530" channel="94">
-    <title lang="en">Krishna Aur Balram Monster Across The Sea</title>
-    <desc lang="en">Kansa's monstrous bird attacks Vrindavan, prompting Krishna and Balram to rescue their friends.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/1616d91c-16d0-4aba-8a6b-def1f7bdcf37.png" />
+  <programme start="20260225153000 +0530" stop="20260225160000 +0530" channel="66">
+    <title lang="en">Podcast</title>
+    <desc lang="en">A podcast series usually features one or more recurring hosts engaged in a discussion about a particular topic or current event</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224205900 +0530" stop="20260224212839 +0530" channel="94">
-    <title lang="en">Luv Kushh Guru Daksh's Curse &amp; The Giant Bird</title>
-    <desc lang="en">Luv and Kush must break Guru Daksh's curse to save him and baby giant bird restore peace to the ashram.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/be814b3c-9899-4608-a7ba-abefe581a23e.png" />
+  <programme start="20260225160000 +0530" stop="20260225170000 +0530" channel="66">
+    <title lang="en">Prem Dhavani</title>
+    <desc lang="en">Melodious bhajans by renowned singers</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224212839 +0530" stop="20260224215839 +0530" channel="94">
-    <title lang="en">Chorr Police The Market Place &amp; The Tunnel</title>
-    <desc lang="en">Anthony's stomach growls as he spots a stall selling delicious tandoori food.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/2a10895e-2e75-4f08-9af8-596e84862c8f.png" />
+  <programme start="20260225170000 +0530" stop="20260225180000 +0530" channel="66">
+    <title lang="en">Shirngar Ras</title>
+    <desc lang="en">Melodious bhajans by renowned singers</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224215839 +0530" stop="20260224222823 +0530" channel="94">
-    <title lang="en">Krishna Aur Balram Monster Across The Sea</title>
-    <desc lang="en">Kansa's monstrous bird attacks Vrindavan, prompting Krishna and Balram to rescue their friends.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/1616d91c-16d0-4aba-8a6b-def1f7bdcf37.png" />
+  <programme start="20260225180000 +0530" stop="20260225183000 +0530" channel="66">
+    <title lang="en">Chalisa Sangrah</title>
+    <desc lang="en">Different types of Chalisa</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
-  <programme start="20260224222824 +0530" stop="20260224225837 +0530" channel="94">
-    <title lang="en">Super Bheem Grah Sona &amp; The Great Space Train Robbery</title>
-    <desc lang="en">Sky Dragon and Bheem fight Chumbak Dada and his golden robots to save Grah Sona.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/a3e2d179-e1f4-4b05-940a-9c92f5cd0845.png" />
-  </programme>
-  <programme start="20260224225837 +0530" stop="20260224232823 +0530" channel="94">
-    <title lang="en">Mighty Raju Sab Hain Super Hero &amp; Tresure Hunt</title>
-    <desc lang="en">Kids dress as superheroes; Mighty Raju defeats Spider, uniting all fans.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/70f134c2-4eb9-437e-99a4-b789958f1ca9.png" />
-  </programme>
-  <programme start="20260224232824 +0530" stop="20260224235803 +0530" channel="94">
-    <title lang="en">Luv Kushh Prince Kaura &amp; The Shadow Thieves</title>
-    <desc lang="en">Luv and Kush outsmart elusive thieves to protect the village from chaos.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/44915104-e4fa-4607-b7a0-7d8a22744118.png" />
+  <programme start="20260225183000 +0530" stop="20260225190000 +0530" channel="66">
+    <title lang="en">Aartiyan</title>
+    <desc lang="en">Aarties of Vishu ji, Durga ji , Lord Ganesh Ji, Hanuman Ji, Shiv Ji, Sai Ji &amp; many more</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/poster/99e2b2a3-1022-45ad-8162-47ef2dae0f7f.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225003013 +0530" channel="94">
     <title lang="en">Krishna Aur Balram Rescuing River Yamuna &amp; Wish Fulfilling Cow</title>
@@ -1317,40 +1257,65 @@
     <desc lang="en">Pandu asks Lovely about his fears after finding his bravery awards.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/platform/channels/GRNGLD/Mobile/poster/ec89c238-c71d-4d4f-b742-dab9daacf574.png" />
   </programme>
-  <programme start="20260224175800 +0530" stop="20260224185800 +0530" channel="19">
-    <title lang="en">Coffee Par Kurukshetra</title>
-    <desc lang="en">The host provides insightful discussions on critical national issues.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
+  <programme start="20260225063023 +0530" stop="20260225070012 +0530" channel="94">
+    <title lang="en">Mighty Raju Bubblegum Pop &amp; Magic Circus</title>
+    <desc lang="en">Raju rescues kids trapped in bubblegum by defeating the evil Candy Man.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/20319e30-374b-4f4a-a85c-e7a59d69c766.png" />
   </programme>
-  <programme start="20260224185800 +0530" stop="20260224195800 +0530" channel="19">
-    <title lang="en">Dharmayudh</title>
-    <desc lang="en">Dharmayudh</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Mobile/poster/cd69fc93-a6c0-4f32-b373-4174462c96fe.png" />
+  <programme start="20260225070012 +0530" stop="20260225073053 +0530" channel="94">
+    <title lang="en">Super Bheem Jaag Gaya Humba</title>
+    <desc lang="en">Bheem's gang faces traps and an evil wizard, regaining powers together.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/23b3664e-62aa-4b32-a4ab-3923fe33771b.png" />
   </programme>
-  <programme start="20260224195800 +0530" stop="20260224205700 +0530" channel="19">
-    <title lang="en">Haqiqat Kya Hai ? + Super 100</title>
-    <desc lang="en">The host presents updates about the current affairs; the host shares top 100 headlines of the day.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
+  <programme start="20260225073054 +0530" stop="20260225080050 +0530" channel="94">
+    <title lang="en">Krishna Aur Balram The Fury Of Vayudev &amp; Dhruva The Pole Star</title>
+    <desc lang="en">A cunning demon tricks Vayudev into confronting Krishna and Balram to prove their power.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/7834807a-9b89-4c71-90f3-ace891a9362e.png" />
   </programme>
-  <programme start="20260224205700 +0530" stop="20260224215800 +0530" channel="19">
-    <title lang="en">Aaj Ki Baat Rajat Sharma Ke Saath</title>
-    <desc lang="en">Host Rajat Sharma provides a detailed analysis on the latest trending topics.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
+  <programme start="20260225080050 +0530" stop="20260225083028 +0530" channel="94">
+    <title lang="en">Luv Kushh Rishi Vatsara &amp; The Comet</title>
+    <desc lang="en">Luv, Kush, and Rishi Vastara fight a curse. They meet Guru Darsh and face a comet monster.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/12a4891d-fabb-4d11-a0d7-c562ad6d9376.png" />
   </programme>
-  <programme start="20260224215800 +0530" stop="20260224225800 +0530" channel="19">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
+  <programme start="20260225083029 +0530" stop="20260225090021 +0530" channel="94">
+    <title lang="en">Chorr Police At The Zoo &amp; Rainy Day</title>
+    <desc lang="en">Anthony sees a wealthy Marwadi at the zoo and plots to pickpocket him.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/6c837add-3fc4-4b37-80fa-203a0b5e3907.png" />
   </programme>
-  <programme start="20260224225800 +0530" stop="20260224232800 +0530" channel="19">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
+  <programme start="20260225090021 +0530" stop="20260225093102 +0530" channel="94">
+    <title lang="en">Krishna Aur Balram Aristhasur</title>
+    <desc lang="en">Kamsa fears Krishna will kill him and warns Parlambasur to eliminate.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/7d853124-cb12-4146-8287-1f077aba1180.png" />
   </programme>
-  <programme start="20260224232800 +0530" stop="20260225001500 +0530" channel="19">
-    <title lang="en">Aaj Ki Baat Rajat Sharma Ke Saath</title>
-    <desc lang="en">Host Rajat Sharma provides a detailed analysis on the latest trending topics.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
+  <programme start="20260225093103 +0530" stop="20260225100112 +0530" channel="94">
+    <title lang="en">Super Bheem Pigs Ki Toli &amp; Rasa Brothers</title>
+    <desc lang="en">Bheem teaches flying Piglets a lesson after they trouble Kaalia near the waterfall.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/8edc9ec3-0920-4c49-90a7-25310486b73b.png" />
+  </programme>
+  <programme start="20260225100112 +0530" stop="20260225103101 +0530" channel="94">
+    <title lang="en">Mighty Raju Cola Trouble &amp; Mobi Aur Mimi</title>
+    <desc lang="en">Raju exposes Charlie's unhealthy cola, teaching kids the value of drinking water.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/4dd493b7-924a-4ade-a42d-a4656fe144df.png" />
+  </programme>
+  <programme start="20260225103102 +0530" stop="20260225110041 +0530" channel="94">
+    <title lang="en">Luv Kushh The Tribal Boy &amp; The Three Wizards</title>
+    <desc lang="en">Luv and Kush save Ugra from wizards, restoring peace after they turn him into a donkey.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/2d0ca49a-844c-40ae-b160-aff832ebfa9d.png" />
+  </programme>
+  <programme start="20260225110041 +0530" stop="20260225113030 +0530" channel="94">
+    <title lang="en">Chorr Police Lovely Ka Darr &amp; Duplicate Lovely</title>
+    <desc lang="en">Pandu asks Lovely about his fears after finding his bravery awards.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/platform/channels/GRNGLD/Mobile/poster/ec89c238-c71d-4d4f-b742-dab9daacf574.png" />
+  </programme>
+  <programme start="20260225113031 +0530" stop="20260225120027 +0530" channel="94">
+    <title lang="en">Krishna Aur Balram The Fury Of Vayudev &amp; Dhruva The Pole Star</title>
+    <desc lang="en">A cunning demon tricks Vayudev into confronting Krishna and Balram to prove their power.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/7834807a-9b89-4c71-90f3-ace891a9362e.png" />
+  </programme>
+  <programme start="20260225120027 +0530" stop="20260225123108 +0530" channel="94">
+    <title lang="en">Super Bheem Jaag Gaya Humba</title>
+    <desc lang="en">Bheem's gang faces traps and an evil wizard, regaining powers together.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/greengold/partners/GRNGLDTV/poster/mobile/hero/23b3664e-62aa-4b32-a4ab-3923fe33771b.png" />
   </programme>
   <programme start="20260225001500 +0530" stop="20260225010000 +0530" channel="19">
     <title lang="en">Advertisment</title>
@@ -1442,45 +1407,40 @@
     <desc lang="en">The host presents some of the latest news stories, current affairs and developments.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224175700 +0530" stop="20260224183600 +0530" channel="55">
-    <title lang="en">Yoga With Baba Ramdev</title>
-    <desc lang="en">Yoga With Baba Ramdev</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
+  <programme start="20260225105800 +0530" stop="20260225112800 +0530" channel="19">
+    <title lang="en">Abhi Abhi</title>
+    <desc lang="en">The host presents a round-up of the latest news related to global and national events.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224183600 +0530" stop="20260224183800 +0530" channel="55">
-    <title lang="en">Break</title>
-    <desc lang="en">Break</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
+  <programme start="20260225112800 +0530" stop="20260225115800 +0530" channel="19">
+    <title lang="en">Abhi Abhi</title>
+    <desc lang="en">The host presents a round-up of the latest news related to global and national events.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224183800 +0530" stop="20260224190700 +0530" channel="55">
-    <title lang="en">Yog Mantra</title>
-    <desc lang="en">Yog Mantra</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
+  <programme start="20260225115800 +0530" stop="20260225122800 +0530" channel="19">
+    <title lang="en">Prahar</title>
+    <desc lang="en">Prahar</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Mobile/poster/cd69fc93-a6c0-4f32-b373-4174462c96fe.png" />
   </programme>
-  <programme start="20260224190700 +0530" stop="20260224201000 +0530" channel="55">
-    <title lang="en">Break</title>
-    <desc lang="en">Break</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
+  <programme start="20260225122800 +0530" stop="20260225125800 +0530" channel="19">
+    <title lang="en">Prahar</title>
+    <desc lang="en">Prahar</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Mobile/poster/cd69fc93-a6c0-4f32-b373-4174462c96fe.png" />
   </programme>
-  <programme start="20260224201000 +0530" stop="20260224210000 +0530" channel="55">
-    <title lang="en">Yoga With Baba Ramdev</title>
-    <desc lang="en">Yoga With Baba Ramdev</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
+  <programme start="20260225125800 +0530" stop="20260225135800 +0530" channel="19">
+    <title lang="en">Kahani Kursi Ki</title>
+    <desc lang="en">The host sheds light on various trending topics and discusses them with experts.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224210000 +0530" stop="20260224220000 +0530" channel="55">
-    <title lang="en">Yoga With Baba Ramdev</title>
-    <desc lang="en">Yoga With Baba Ramdev</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
+  <programme start="20260225135800 +0530" stop="20260225145800 +0530" channel="19">
+    <title lang="en">Kahani Kursi Ki</title>
+    <desc lang="en">The host sheds light on various trending topics and discusses them with experts.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/INDIATV/poster/heroart_mobile.png" />
   </programme>
-  <programme start="20260224220000 +0530" stop="20260224230000 +0530" channel="55">
-    <title lang="en">Yoga With Baba Ramdev</title>
-    <desc lang="en">Yoga With Baba Ramdev</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
-  </programme>
-  <programme start="20260224230000 +0530" stop="20260225000000 +0530" channel="55">
-    <title lang="en">Yoga With Baba Ramdev</title>
-    <desc lang="en">Yoga With Baba Ramdev</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
+  <programme start="20260225145800 +0530" stop="20260225152800 +0530" channel="19">
+    <title lang="en">Rajdharma</title>
+    <desc lang="en">Rajdharma</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Mobile/poster/cd69fc93-a6c0-4f32-b373-4174462c96fe.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225100300 +0530" channel="55">
     <title lang="en">To Be Announced</title>
@@ -1567,65 +1527,45 @@
     <desc lang="en">Yog Mantra</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224180000 +0530" stop="20260224183000 +0530" channel="31">
-    <title lang="en">Super Sixer</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/supersixer.png" />
+  <programme start="20260225135200 +0530" stop="20260225135500 +0530" channel="55">
+    <title lang="en">Break</title>
+    <desc lang="en">Break</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224183000 +0530" stop="20260224190000 +0530" channel="31">
-    <title lang="en">Lie Detector Test</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
+  <programme start="20260225135500 +0530" stop="20260225142400 +0530" channel="55">
+    <title lang="en">Yoga With Baba Ramdev</title>
+    <desc lang="en">Yoga With Baba Ramdev</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224190000 +0530" stop="20260224193000 +0530" channel="31">
-    <title lang="en">Lakh Take Ki Baat</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/lakhtakekibaat.png" />
+  <programme start="20260225142400 +0530" stop="20260225143400 +0530" channel="55">
+    <title lang="en">Yoga With Baba Ramdev</title>
+    <desc lang="en">Yoga With Baba Ramdev</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224193000 +0530" stop="20260224200000 +0530" channel="31">
-    <title lang="en">Lakh Take Ki Baat</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/lakhtakekibaat.png" />
+  <programme start="20260225143400 +0530" stop="20260225143600 +0530" channel="55">
+    <title lang="en">Yoga With Baba Ramdev</title>
+    <desc lang="en">Yoga With Baba Ramdev</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224200000 +0530" stop="20260224203000 +0530" channel="31">
-    <title lang="en">Rashtramev Jayte</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
+  <programme start="20260225143600 +0530" stop="20260225143900 +0530" channel="55">
+    <title lang="en">Break</title>
+    <desc lang="en">Break</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224203000 +0530" stop="20260224210000 +0530" channel="31">
-    <title lang="en">Rashtramev Jayte</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
+  <programme start="20260225143900 +0530" stop="20260225151000 +0530" channel="55">
+    <title lang="en">Yoga With Baba Ramdev</title>
+    <desc lang="en">Yoga With Baba Ramdev</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224210000 +0530" stop="20260224213000 +0530" channel="31">
-    <title lang="en">News Special</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
+  <programme start="20260225151000 +0530" stop="20260225151500 +0530" channel="55">
+    <title lang="en">Yoga With Baba Ramdev</title>
+    <desc lang="en">Yoga With Baba Ramdev</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
-  <programme start="20260224213000 +0530" stop="20260224220000 +0530" channel="31">
-    <title lang="en">Anatarkatha</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/anatarkatha.png" />
-  </programme>
-  <programme start="20260224220000 +0530" stop="20260224223000 +0530" channel="31">
-    <title lang="en">News Special</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
-  </programme>
-  <programme start="20260224223000 +0530" stop="20260224230000 +0530" channel="31">
-    <title lang="en">News Special</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
-  </programme>
-  <programme start="20260224230000 +0530" stop="20260224233000 +0530" channel="31">
-    <title lang="en">Super 30</title>
-    <desc lang="en">News Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
-  </programme>
-  <programme start="20260224233000 +0530" stop="20260225000000 +0530" channel="31">
-    <title lang="en">Full And Final</title>
-    <desc lang="en">Special Show</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
+  <programme start="20260225151500 +0530" stop="20260225151700 +0530" channel="55">
+    <title lang="en">Yoga With Baba Ramdev</title>
+    <desc lang="en">Yoga With Baba Ramdev</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Mobile/poster/676dbead-7323-46c8-8aa5-64072dc639b6.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225003000 +0530" channel="31">
     <title lang="en">News Special</title>
@@ -1692,65 +1632,65 @@
     <desc lang="en">News</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
   </programme>
-  <programme start="20260224180000 +0530" stop="20260224183000 +0530" channel="36">
-    <title lang="en">Har Sahar, Har Khabar</title>
+  <programme start="20260225063000 +0530" stop="20260225070000 +0530" channel="31">
+    <title lang="en">Good Morning Nation</title>
     <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
   </programme>
-  <programme start="20260224183000 +0530" stop="20260224190000 +0530" channel="36">
-    <title lang="en">Siyasi Chauk</title>
+  <programme start="20260225070000 +0530" stop="20260225073000 +0530" channel="31">
+    <title lang="en">Good Morning Nation</title>
     <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
   </programme>
-  <programme start="20260224190000 +0530" stop="20260224193000 +0530" channel="36">
-    <title lang="en">Thokbajakar</title>
+  <programme start="20260225073000 +0530" stop="20260225080000 +0530" channel="31">
+    <title lang="en">Good Morning Nation</title>
     <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
   </programme>
-  <programme start="20260224193000 +0530" stop="20260224200000 +0530" channel="36">
-    <title lang="en">Pahad Samachar</title>
+  <programme start="20260225080000 +0530" stop="20260225083000 +0530" channel="31">
+    <title lang="en">Jungle News</title>
+    <desc lang="en">Special Show</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/junglenews.png" />
+  </programme>
+  <programme start="20260225083000 +0530" stop="20260225090000 +0530" channel="31">
+    <title lang="en">Jungle News</title>
+    <desc lang="en">Special Show</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/junglenews.png" />
+  </programme>
+  <programme start="20260225090000 +0530" stop="20260225093000 +0530" channel="31">
+    <title lang="en">Namaste 9 Baje</title>
+    <desc lang="en">News Special</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
+  </programme>
+  <programme start="20260225093000 +0530" stop="20260225100000 +0530" channel="31">
+    <title lang="en">Namaste 9 Baje</title>
+    <desc lang="en">News Special</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
+  </programme>
+  <programme start="20260225100000 +0530" stop="20260225103000 +0530" channel="31">
+    <title lang="en">Khabar Pakki Hai</title>
     <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/khabarpakkihai.png" />
   </programme>
-  <programme start="20260224200000 +0530" stop="20260224203000 +0530" channel="36">
-    <title lang="en">Top 20 Brk + Do Took</title>
-    <desc lang="en">Debate</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
-  </programme>
-  <programme start="20260224203000 +0530" stop="20260224210000 +0530" channel="36">
-    <title lang="en">Special News</title>
-    <desc lang="en">News &amp; Current Affairs</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
-  </programme>
-  <programme start="20260224210000 +0530" stop="20260224213000 +0530" channel="36">
-    <title lang="en">Reporter Express</title>
+  <programme start="20260225103000 +0530" stop="20260225110000 +0530" channel="31">
+    <title lang="en">Khabar Pakki Hai</title>
     <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/khabarpakkihai.png" />
   </programme>
-  <programme start="20260224213000 +0530" stop="20260224220000 +0530" channel="36">
-    <title lang="en">News Spl</title>
-    <desc lang="en">Infotainment</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
-  </programme>
-  <programme start="20260224220000 +0530" stop="20260224223000 +0530" channel="36">
-    <title lang="en">Crime News</title>
+  <programme start="20260225110000 +0530" stop="20260225113000 +0530" channel="31">
+    <title lang="en">Breaking News 100</title>
     <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/NEWSNATN/poster/mobile/hero/breakingnews100.png" />
   </programme>
-  <programme start="20260224223000 +0530" stop="20260224230000 +0530" channel="36">
-    <title lang="en">Khabar Uttrakhand</title>
-    <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  <programme start="20260225113000 +0530" stop="20260225120000 +0530" channel="31">
+    <title lang="en">News Special/ Bade Miyan Kidhar Chale</title>
+    <desc lang="en">News Special</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
   </programme>
-  <programme start="20260224230000 +0530" stop="20260224233000 +0530" channel="36">
-    <title lang="en">Har Shahar Ki Khabar (fnl.bull)</title>
-    <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
-  </programme>
-  <programme start="20260224233000 +0530" stop="20260225000000 +0530" channel="36">
-    <title lang="en">State Supersonic + Run</title>
-    <desc lang="en">News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  <programme start="20260225120000 +0530" stop="20260225123000 +0530" channel="31">
+    <title lang="en">News Room Live Bulletin</title>
+    <desc lang="en">News Special</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Mobile/poster/Channel Poster_Heroart_mobile.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225003000 +0530" channel="36">
     <title lang="en">Do Took (rpt)</title>
@@ -1817,20 +1757,65 @@
     <desc lang="en">News</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
   </programme>
-  <programme start="20260224164939 +0530" stop="20260224194235 +0530" channel="40">
-    <title lang="en">Zakhmi Insan (dub) (dass Tamil)</title>
-    <desc lang="en">Antony falls in love with Rajeswari who belongs to an upper caste family. When her father kills her sister for marrying a man from the lower caste, she decides to elope with Antony.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/partners/NHBLYFLX/poster/mobile/hero/c4f4e080-bfc5-428a-86eb-fa27d83b7adf.png" />
+  <programme start="20260225063000 +0530" stop="20260225070000 +0530" channel="36">
+    <title lang="en">Bhagya Guru</title>
+    <desc lang="en">Astro show</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
   </programme>
-  <programme start="20260224194235 +0530" stop="20260224220120 +0530" channel="40">
-    <title lang="en">Kya Super Kool Hai Hum</title>
-    <desc lang="en">A comedy film that tells the story of two friends, who dream of becoming successful actors. They get caught up in a series of misadventures when they try to impress two women and end up in hilarious situations. The movie features humor, witty one-liners, and a fast-paced storyline.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/platform/channels/BLYFLX/Mobile/poster/1f2b428a-3314-4297-bbfa-81748b7d68ce.png" />
+  <programme start="20260225070000 +0530" stop="20260225073000 +0530" channel="36">
+    <title lang="en">Savere  Savere</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
   </programme>
-  <programme start="20260224220120 +0530" stop="20260225001415 +0530" channel="40">
-    <title lang="en">Sultaan</title>
-    <desc lang="en">Don Kabira helps Ayesha in saving her garage from local goons. However, he hides the fact that he was an honest inspector sometime ago after which Ayesha decides to find out the reason for his transformation.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/platform/channels/BLYFLX/Mobile/poster/1f2b428a-3314-4297-bbfa-81748b7d68ce.png" />
+  <programme start="20260225073000 +0530" stop="20260225080000 +0530" channel="36">
+    <title lang="en">Savere  Savere</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225080000 +0530" stop="20260225083000 +0530" channel="36">
+    <title lang="en">State Exp. + News</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225083000 +0530" stop="20260225090000 +0530" channel="36">
+    <title lang="en">Byanveer</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225090000 +0530" stop="20260225093000 +0530" channel="36">
+    <title lang="en">Morning Prime Time</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225093000 +0530" stop="20260225100000 +0530" channel="36">
+    <title lang="en">9 Baje 90 Shahar + News</title>
+    <desc lang="en">Infotainment</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225100000 +0530" stop="20260225103000 +0530" channel="36">
+    <title lang="en">State 100 + News</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225103000 +0530" stop="20260225110000 +0530" channel="36">
+    <title lang="en">Dev. Exp + Up/uk News</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225110000 +0530" stop="20260225113000 +0530" channel="36">
+    <title lang="en">11 Baje 111 + News</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225113000 +0530" stop="20260225120000 +0530" channel="36">
+    <title lang="en">Siyasi Chauk</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
+  </programme>
+  <programme start="20260225120000 +0530" stop="20260225123000 +0530" channel="36">
+    <title lang="en">75 Dist, 75 News</title>
+    <desc lang="en">News</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Mobile/poster/1b621f9b-b24b-4f3b-a21a-864be1db0fe5.jpg" />
   </programme>
   <programme start="20260225001416 +0530" stop="20260225023232 +0530" channel="40">
     <title lang="en">Mitti</title>
@@ -1882,14 +1867,9 @@
     <desc lang="en">An action thriller film that follows the story of a journalist, Vikas, who is sent to Istanbul to cover a breaking news story. However, he becomes embroiled in a dangerous conspiracy involving international terrorism and political corruption. The movie features high-octane action sequences and explores themes of courage, patriotism, and the importance of journalistic integrity in a thrilling and suspenseful plot.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/platform/channels/BLYFLX/Mobile/poster/1f2b428a-3314-4297-bbfa-81748b7d68ce.png" />
   </programme>
-  <programme start="20260224170132 +0530" stop="20260224194642 +0530" channel="39">
-    <title lang="en">Phool Aur Angaar</title>
-    <desc lang="en">A young man rescues a woman from being molested but gets accused of the heinous crime instead. Trying to apprehend the miscreants, he gets caught in a web of deception and lies.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/partners/NHBLYGLD/poster/mobile/hero/4b425ad8-c35b-4959-ad73-77f58ace3436.png" />
-  </programme>
-  <programme start="20260224194642 +0530" stop="20260224214314 +0530" channel="39">
-    <title lang="en">Zakhm</title>
-    <desc lang="en">The story revolves around a young boy, Ajay, who grows up torn between his mother's Muslim identity and his father's Hindu beliefs. When his mother is killed in a communal riot, Ajay is forced to confront his past and reconcile his conflicted identity. The film explores themes of love, loss, and communal harmony against the backdrop of religious tensions in India.</desc>
+  <programme start="20260224214314 +0530" stop="20260225003708 +0530" channel="39">
+    <title lang="en">Nadaan</title>
+    <desc lang="en">The animosity between Ranimaa and a small hostile community gets worse when her niece and heir, Seema, falls in love with Ajay Jain, a common man.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/platform/channels/BLYGLD/Mobile/poster/fbfd86aa-0780-4473-9c9e-1fe537c4c8b0.png" />
   </programme>
   <programme start="20260225003708 +0530" stop="20260225032218 +0530" channel="39">
@@ -1931,21 +1911,6 @@
     <title lang="en">Hum</title>
     <desc lang="en">Enraged by his father's death at the hands of Bakhtawar, Tiger vows to murder him but Inspector Giridhar stops him. Later, Giridhar steals from Bakhtawar and kills his family but blames Tiger for it.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/partners/NHBLYGLD/poster/mobile/hero/29888ac4-dfe5-40a2-ac3c-ee4dc78a56f6.png" />
-  </programme>
-  <programme start="20260224163751 +0530" stop="20260224185813 +0530" channel="41">
-    <title lang="en">Masti Bhare Geet</title>
-    <desc lang="en">Feel-good songs to groove to. Perfect for boosting your mood and adding fun to any moment – pure, carefree energy!</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/partners/NHBLYRAG/poster/mobile/hero/4e1c6044-e145-47fd-8dd1-eac5a7f41c6b.png" />
-  </programme>
-  <programme start="20260224185813 +0530" stop="20260224211526 +0530" channel="41">
-    <title lang="en">Blissful Beats</title>
-    <desc lang="en">Soothing melodies that calm your soul. Let these peaceful tunes create your perfect moment of serenity. A carefully curated collection of rhythms to help you unwind.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/partners/NHBLYRAG/poster/mobile/hero/1954847a-38b0-41fb-b029-4c0a256586d4.png" />
-  </programme>
-  <programme start="20260224211526 +0530" stop="20260224232518 +0530" channel="41">
-    <title lang="en">Disco Dancer</title>
-    <desc lang="en">Bring back the flashy disco vibes with this sensational Disco Dancer jukebox. Whether you're a retro lover or a new-age dancer, these beats will keep you moving!</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/partners/NHBLYRAG/poster/mobile/hero/7fb12910-ea23-4547-b29e-0d892a19a725.png" />
   </programme>
   <programme start="20260224232519 +0530" stop="20260225003003 +0530" channel="41">
     <title lang="en">Gane Naye Purane</title>
@@ -2021,31 +1986,6 @@
     <title lang="en">Hema Malini Parveen Babi Hit Bollywood Divas</title>
     <desc lang="en">The Original Bollywood Divas! Hema's elegance + Parveen's sass = Unbeatable 70s magic. Press play for nostalgia in every note!</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/nhstdz/platform/channels/BLYRAG/Mobile/poster/50a123d4-8215-4890-9034-490571c62290.png" />
-  </programme>
-  <programme start="20260224160000 +0530" stop="20260224190000 +0530" channel="38">
-    <title lang="en">Chah Te Movie-Jaddi Sardar</title>
-    <desc lang="en">Starcast-Sippy Gill, Dilpreet Dhillon, Sawan Rupowali, Guggu Gill, Hobby Dhaliwal, Anita Devgan</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
-  </programme>
-  <programme start="20260224190000 +0530" stop="20260224200000 +0530" channel="38">
-    <title lang="en">Shonkan Filma Di</title>
-    <desc lang="en">Entertainment</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
-  </programme>
-  <programme start="20260224200000 +0530" stop="20260224230000 +0530" channel="38">
-    <title lang="en">Family Time-Nikka Zaildar</title>
-    <desc lang="en">Starcast- Ammy Virk, Sonam Bajwa, Karamjeet Anmol</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
-  </programme>
-  <programme start="20260224230000 +0530" stop="20260224233000 +0530" channel="38">
-    <title lang="en">Kaato Kaahto</title>
-    <desc lang="en">Entertainment</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
-  </programme>
-  <programme start="20260224233000 +0530" stop="20260225000000 +0530" channel="38">
-    <title lang="en">Midnight Tune</title>
-    <desc lang="en">Punjabi Movie Songs</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225010000 +0530" channel="38">
     <title lang="en">Midnight Tune</title>
@@ -2147,25 +2087,30 @@
     <desc lang="en">Starcast-Tarsem Jassar, Wamiqa Gabbi, B N Sharma, Raghveer Boli, Rupinder Rupi, Honey Mattu, Sukhi Chahal, Seema Kaushal, Prakash Gadhu, Harby Sangha</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
   </programme>
-  <programme start="20260224160000 +0530" stop="20260224190000 +0530" channel="37">
-    <title lang="en">Movie Maitnee-Sardara And Sons</title>
-    <desc lang="en">Starcast-Yograj Singh, Sarbjit Cheema, Roshan Prince, Gurmeet Sajjan, Kanika Sasan, Tanvir GIll, Roopa Cheema, Paul Randhawa, Manraj Brar</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
+  <programme start="20260226120000 +0530" stop="20260226123000 +0530" channel="38">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">Entertainment</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
   </programme>
-  <programme start="20260224190000 +0530" stop="20260224200000 +0530" channel="37">
-    <title lang="en">Speaker Kharke</title>
+  <programme start="20260226123000 +0530" stop="20260226153000 +0530" channel="38">
+    <title lang="en">Movie Crunch-Ni Main Sass Kuttni</title>
+    <desc lang="en">Starcast-Mehtab Virk, Tanvi Nagi, Gurpreet Ghuggi, Karamjit Anmol, , Nirmal Rishi, Anita Devgan Akshita Shrma, Nisha Bano, Seema Kaushal, Tarsem Paul, Dolly Singh</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
+  </programme>
+  <programme start="20260226153000 +0530" stop="20260226160000 +0530" channel="38">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">Entertainment</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
+  </programme>
+  <programme start="20260226160000 +0530" stop="20260226190000 +0530" channel="38">
+    <title lang="en">Chah Te Movie-Rabb Da Radio</title>
+    <desc lang="en">Starcast-Tarsem Jassar, Mandy Takhar, Simi Chahal</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
+  </programme>
+  <programme start="20260226190000 +0530" stop="20260226200000 +0530" channel="38">
+    <title lang="en">Behind The Beats</title>
     <desc lang="en">Punjabi Movie Songs</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
-  </programme>
-  <programme start="20260224200000 +0530" stop="20260224230000 +0530" channel="37">
-    <title lang="en">Ghaint Filma-Chobbar</title>
-    <desc lang="en">Starcast-Jayy Randhawa and Drishti Talwar</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
-  </programme>
-  <programme start="20260224230000 +0530" stop="20260225000000 +0530" channel="37">
-    <title lang="en">Speaker Kharke</title>
-    <desc lang="en">Punjabi Movie Songs</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Mobile/poster/9fbe7aca-c81f-4f1d-9320-5bddfda26d18.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225010000 +0530" channel="37">
     <title lang="en">Speaker Kharke</title>
@@ -2272,85 +2217,25 @@
     <desc lang="en">Starcast-Karamjit Anmol, Ihana Dhillon, Nav Bajwa, Hobby Dhaliwal</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
   </programme>
-  <programme start="20260224180739 +0530" stop="20260224182911 +0530" channel="4">
-    <title lang="en">Date Night</title>
-    <desc lang="en">A meticulously planned date night goes terribly wrong when the husband reveals that he will not be able to make it.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/a79021e2-6ed2-4941-9e2c-1a9eb34dc239.png" />
+  <programme start="20260226120000 +0530" stop="20260226123000 +0530" channel="37">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">Entertainment</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
   </programme>
-  <programme start="20260224182911 +0530" stop="20260224190505 +0530" channel="4">
-    <title lang="en">Desh Ki Pardesh ?</title>
-    <desc lang="en">The film follows the Parikh's on their visit to their children settled in the US. However, to only realize that there's a lot more than just a generation gap between them. Mainly, dawning upon Hasmuk Parikh's that it's great to dream big for your children, but one must be mentally prepared that those dreams may or not have them in it.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00110.png" />
+  <programme start="20260226123000 +0530" stop="20260226153000 +0530" channel="37">
+    <title lang="en">Movie Brunch-Doorbeen</title>
+    <desc lang="en">Starcast-Ninja, Wamiqa Gabbi, Jass Bajwa, Jasmin Bajwa</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
   </programme>
-  <programme start="20260224190505 +0530" stop="20260224192108 +0530" channel="4">
-    <title lang="en">Expectations</title>
-    <desc lang="en">The story is about a boy grappling with overwhelming feelings and contemplating drastic measures. This growing issue among the younger generation stems from unfulfilled expectations placed by society. 'Expectations' is a short film exploring the theme of emotional struggles and their severe consequences.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/ad8102c3-d778-45ff-9853-6c40668d43ba.png" />
+  <programme start="20260226153000 +0530" stop="20260226160000 +0530" channel="37">
+    <title lang="en">Pitaara’ S  billboard</title>
+    <desc lang="en">Punjabi Movie Songs</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
   </programme>
-  <programme start="20260224192108 +0530" stop="20260224200141 +0530" channel="4">
-    <title lang="en">Perks Of Being An Actor</title>
-    <desc lang="en">A relentless pursuit of an aging actor to become a HERO and how these struggles land him in awkward situations.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/6069f0b2-6b43-4709-8c14-d68599dfdc8c.png" />
-  </programme>
-  <programme start="20260224200142 +0530" stop="20260224200957 +0530" channel="4">
-    <title lang="en">Faboo</title>
-    <desc lang="en">Are we using social media to expand our horizon or are we overusing it and unknowingly desensitizing ourselves. Faboo explores this aspect of social media and nudges us to think about it through this story of a mother and son.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00119.png" />
-  </programme>
-  <programme start="20260224200957 +0530" stop="20260224203239 +0530" channel="4">
-    <title lang="en">Dwand</title>
-    <desc lang="en">Ruby, a lower-middle-class girl was made to believe that she is beautiful, intelligent, and different and that she deserves a worthy husband. She completed her studies and wanted to be a career girl. However, the marriage happened contrary to her expectations with a traditional man Vivek of the similar lower middle-class strata. After giving birth to a girl child she revolted and joined an advertising company to shape up her career. Here begins the nightmare.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00116.png" />
-  </programme>
-  <programme start="20260224203240 +0530" stop="20260224210300 +0530" channel="4">
-    <title lang="en">Goals</title>
-    <desc lang="en">As Meera, our pretty in pink protagonist comes back to Bombay after spending several months apart from her beau Ranbir, the circumstances force them to evaluate the basis of their relationship. This film is a deep dive into a young adult's core problems of emotional dishonesty and preference of style over substance.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00046.png" />
-  </programme>
-  <programme start="20260224210300 +0530" stop="20260224211206 +0530" channel="4">
-    <title lang="en">Firni</title>
-    <desc lang="en">The next-door neighbors are having a fight and they send their rude 14-year-old daughter Firni to keep her busy.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00124.png" />
-  </programme>
-  <programme start="20260224211206 +0530" stop="20260224212943 +0530" channel="4">
-    <title lang="en">Firefly</title>
-    <desc lang="en">A chance encounter with a piece from his past, leads Ved, a young man to reminisce a fateful night with his girlfriend, Daaria.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00123.png" />
-  </programme>
-  <programme start="20260224212944 +0530" stop="20260224215713 +0530" channel="4">
-    <title lang="en">Dawn To Dusk</title>
-    <desc lang="en">Dawn to Dusk tells the narrative of Nisha Rawat, a young girl who lost her parents. She has skin cancer, Malignant Melanoma and her entire life revolves around the night. Nisha accepted her circumstances as they were. Her life, however, is turned upside down when she meets Suraj, a boy who works at a hospital. Dawn to Dusk becomes Nisha and Suraj's narrative.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00106.png" />
-  </programme>
-  <programme start="20260224215713 +0530" stop="20260224222158 +0530" channel="4">
-    <title lang="en">Fear Of Wheels</title>
-    <desc lang="en">This film beautifully captures the emotional interplay between the vibrant, ambitious youth and the helpless, world-weary elders, showcasing the poignant struggle between generations. As a person reaches a certain stage in life, they observe numerous things happening around them, yet feel incapable of taking action. Over time, they become reliant on others even for the most basic tasks. This narrative portrays those individuals who experience old age gradually tightening its grip around them.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/a25df1ce-b2e6-4c20-a5c7-a3eb610a3d90.png" />
-  </programme>
-  <programme start="20260224222158 +0530" stop="20260224222929 +0530" channel="4">
-    <title lang="en">Dry Dreams</title>
-    <desc lang="en">We mostly don’t care about things, which we have around us and are easily available here’s one such thrilling short film about a guy who has two visitors asking for water, what happens next is an eye opener.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00021.png" />
-  </programme>
-  <programme start="20260224222929 +0530" stop="20260224223749 +0530" channel="4">
-    <title lang="en">Doughnut</title>
-    <desc lang="en">Sameer, on his afternoon break from work, walks into a restaurant hoping for some quiet time. However, a doughnut with supposedly magical properties has him in for a shock. Fearing the unreal powers he suddenly acquires, he hurries out. How does a young woman who walks in right then change Sameer's attitude towards the magical doughnut?</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00020.png" />
-  </programme>
-  <programme start="20260224223749 +0530" stop="20260224230754 +0530" channel="4">
-    <title lang="en">Cheepatakadumpa</title>
-    <desc lang="en">‘CHEEPATAKADUMPA’ follows three women over less than a day as they awaken their naughty teenage alter egos when they meet again after years, unleashing mischief on each other, and in turn on the biased patriarchal belief systems of the world they were born into. In a masculine culture that is unduly serious about making the rules that women are expected to live by, Teja, Santo and Tamanna find true and happy rebellion in the gasping throes of this mischief.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/0e075723-c5b3-4c5b-b92b-0d107fec800d.png" />
-  </programme>
-  <programme start="20260224230754 +0530" stop="20260224233645 +0530" channel="4">
-    <title lang="en">Days Left Behind</title>
-    <desc lang="en">A man struggles to survive in a post-apocalyptic India where the World has been devastated by a deadly virus that turns people into wild cannibalistic creatures, until one day he comes across an abandoned car.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00107.png" />
-  </programme>
-  <programme start="20260224233645 +0530" stop="20260225000619 +0530" channel="4">
-    <title lang="en">Firki</title>
-    <desc lang="en">It's the way many father's typically behave when their children start driving. The idea of using the navigation tool to highlight the generation gap is also based on my own life experience. The title is Firki because the family is spinning around like a Firki without having reached their destination in the film. It's also depicts how they've been taken for a ride by the navigation app, or as we say in Hindi....Firki le li</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/b3f364f5-94b9-4d48-ae50-32a1d0171d14.png" />
+  <programme start="20260226160000 +0530" stop="20260226190000 +0530" channel="37">
+    <title lang="en">Movie Maitnee-Gelo</title>
+    <desc lang="en">Starcast-Pawan Malhotra, Jaspinder Cheema, Raj Dhaliwal</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Mobile/poster/208df3ff-e03c-4ff8-b9ea-46330c9d933e.png" />
   </programme>
   <programme start="20260225000620 +0530" stop="20260225003051 +0530" channel="4">
     <title lang="en">Gunjaaish</title>
@@ -2673,32 +2558,40 @@
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/99231647-b189-4e53-a3d6-f94e541a1e62.png" />
   </programme>
   <programme start="20260226000917 +0530" stop="20260226001524 +0530" channel="4">
-    <title lang="en">PKTFLM_SHF_00100</title>
-    <desc lang="en" />
+    <title lang="en">Choices</title>
+    <desc lang="en">Ritesh and Yami are just a day away from their marriage, and ritesh makes a confession which may affect their upcoming relationship, or maybe not?</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00100.png" />
   </programme>
   <programme start="20260226001525 +0530" stop="20260226003121 +0530" channel="4">
-    <title lang="en">PKTFLM_SHF_00010</title>
-    <desc lang="en" />
+    <title lang="en">Bhagwaan - The Faith</title>
+    <desc lang="en">A final chance meeting with a mysterious old homeless man changes everything they’ve experienced that day. The story delves into how deep their faith truly is and how people worship gods. Some use faith and god as a means of solace while others as a crutch for a troubling life.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00010.png" />
   </programme>
   <programme start="20260226003121 +0530" stop="20260226005418 +0530" channel="4">
-    <title lang="en">PKTFLM_SHF_00247</title>
-    <desc lang="en" />
+    <title lang="en">Budhwaar</title>
+    <desc lang="en">In this captivating story, a man residing in a village embarks on a journey to purchase a piece of land within his community, seeking assistance from the sarpanch. Despite his wife and the sarpanch's warnings against buying the land on Budhwaar (Wednesday) due to its inauspicious nature, the man disregards their concerns and proceeds with the purchase. Filled with joy, he begins digging the land with aspirations of cultivating vegetables. However, his enthusiasm is short-lived as he soon discovers the land's infertility. His dreams are shattered as the realization dawns upon him that he has fallen victim to a deceitful scheme. What he decides to do next is a must-see, making this story all the more intriguing.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/9811ff2b-c2f9-4ca4-8287-d7204a16dcf3.png" />
   </programme>
   <programme start="20260226005419 +0530" stop="20260226010514 +0530" channel="4">
-    <title lang="en">PKTFLM_SHF_00315</title>
-    <desc lang="en" />
+    <title lang="en">Bita Hua Pal</title>
+    <desc lang="en">The film delves into the universal question of love and compatibility. It follows the journey of a woman named Mira, who, like many others, finds herself questioning the foundation of her relationship. As she navigates the ups and downs of her own love story, she reflects on the nature of love and the challenges of maintaining a lasting connection.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/4e311529-e38d-4d6f-bc47-8bd734973a9a.png" />
   </programme>
   <programme start="20260226010514 +0530" stop="20260226013629 +0530" channel="4">
-    <title lang="en">PKTFLM_SHF_00250</title>
-    <desc lang="en" />
+    <title lang="en">Chashmadeed</title>
+    <desc lang="en">A 60 YO woman lives with her entitled 30-year-old son and his wife. She is a doting mother to him, and like any mother, thinks of her son as ideal. One morning, she starts having a strange issue with her eyes, as her vision keeps getting blurred in erratic spasms, like a camera going out of focus and back. Upon the recommendation of her 23-year-old hip and woke neighbor, she sets out to visit an eye clinic by herself. The solution offered at this eye clinic more than clears her blurry vision.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/1c8a6fd0-7e58-44bf-882e-2993acedaec2.png" />
   </programme>
   <programme start="20260226013629 +0530" stop="20260226015321 +0530" channel="4">
-    <title lang="en">PKTFLM_SHF_00014</title>
-    <desc lang="en" />
+    <title lang="en">Charitra Varnan</title>
+    <desc lang="en">A cab driver comes across a woman standing and crying along the roadside. He tries to help her and tells her that he would drop her home safely. What happens next will leave you stunned.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00014.png" />
   </programme>
   <programme start="20260226015321 +0530" stop="20260226020130 +0530" channel="4">
-    <title lang="en">PKTFLM_SHF_00302</title>
-    <desc lang="en" />
+    <title lang="en">Cheater</title>
+    <desc lang="en">Love is blind, they say. And, sometimes, quite literally!
+How many of us are guilty of forgiving our partners once too often for their hurtful actions? When it comes to a cheating spouse, however, you would think there was no scope for forgiveness.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/8c4beb1c-f056-45ba-a6ba-68f051f3ee68.png" />
   </programme>
   <programme start="20260226020130 +0530" stop="20260226021908 +0530" channel="4">
     <title lang="en">Cratch</title>
@@ -2739,21 +2632,6 @@
     <title lang="en">Bumbhaiyya</title>
     <desc lang="en">The movie shows that how a common man is affected by the inter-religious conflicts that happen and how in the end he understands the real truth.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/PKTFLM/poster/mobile/hero/PKTFLM_SHF_00095.png" />
-  </programme>
-  <programme start="20260224172016 +0530" stop="20260224191709 +0530" channel="7">
-    <title lang="en">Untraceable</title>
-    <desc lang="en">A FBI secret service agent, gets caught in a deadly cat-and-mouse game with a serial killer who knows that people will log onto an "untraceable" website where he conducts violent and painful murders LIVE on the net. The more people who log on and enter the website, the quicker and more violently the victim dies.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/mobile/hero/c44aca6f-26e0-4c65-a6fd-61df3d6ff261.png" />
-  </programme>
-  <programme start="20260224191709 +0530" stop="20260224213015 +0530" channel="7">
-    <title lang="en">Lawless</title>
-    <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/mobile/hero/733ac4fd-5139-417c-b7c3-7f382f3bf734.png" />
-  </programme>
-  <programme start="20260224213015 +0530" stop="20260224225754 +0530" channel="7">
-    <title lang="en">Wrecker</title>
-    <desc lang="en">Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/mobile/hero/fb868aff-7276-4b5d-8988-2ef4f081f66c.png" />
   </programme>
   <programme start="20260224225754 +0530" stop="20260225004745 +0530" channel="7">
     <title lang="en">Out Of Death</title>
@@ -2835,26 +2713,6 @@
     <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNACTN/poster/mobile/hero/bca1696f-9214-4142-ac9b-61c4c7ede06a.png" />
   </programme>
-  <programme start="20260224165056 +0530" stop="20260224184656 +0530" channel="11">
-    <title lang="en">Ted Bundy: American Boogeyman</title>
-    <desc lang="en">This is the true story behind the manhunt that brought America’s most fearsome boogeyman to justice. His name is Ted Bundy. A specter roams the highways of the gritty 1970s America hunting for his next prey. Tracking him are intrepid FBI female agent Kathleen &amp; Robert Ressler organizers of the largest manhunt in history to apprehend America’s most Notorious infamous serial killer.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/66fa6173-ad77-4b25-bfce-907a63896e73.png" />
-  </programme>
-  <programme start="20260224184656 +0530" stop="20260224202613 +0530" channel="11">
-    <title lang="en">Maneater</title>
-    <desc lang="en">While the group of friends explore a beautiful small island, all hell breaks loose for Jessie as the rogue shark sets its hunting grounds within the vicinity. A Father with a score to settle brings his war to their doorstep.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/7e6e08ce-a23b-4add-8df5-75f93f7654f7.png" />
-  </programme>
-  <programme start="20260224202613 +0530" stop="20260224222006 +0530" channel="11">
-    <title lang="en">Vivarium</title>
-    <desc lang="en">A Young couple thinking about buying their perfect single family starter home. They visits a real estate agency where they are received by a strange sales agent and find themselves trapped in a surreal, mysterious, maze-like nightmare.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/b1ea9f07-1ea0-4c00-8fab-92a5245dee14.png" />
-  </programme>
-  <programme start="20260224222006 +0530" stop="20260225001431 +0530" channel="11">
-    <title lang="en">The Catcher Was A Spy</title>
-    <desc lang="en">With an ensemble cast, this gripping, espionage thriller brings to life the true story of Moe Berg a World War II spy. His mission: go behind enemy lines in Europe to assassinate the Nazi's chief nuclear scientist before the Germans develop an atomic bomb. Berg must rely on his steel-trap intellect in a high-stakes game of cat and mouse - with the fate of the world hanging in the balance.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/ddf30a90-7413-42ed-a1f1-e48e45d4fe44.png" />
-  </programme>
   <programme start="20260225001431 +0530" stop="20260225021201 +0530" channel="11">
     <title lang="en">Corner Office</title>
     <desc lang="en">Based on the international best-selling novel The Room. Corner Office an absurdist tale of a man lost in his own space. Our corporate hero is trying to move up in his newly acquired job and discovers a secret room in his office building; his alienation deepens when he discovers a room he's told doesn't exist. Discover human behavior to find humor in the absurdity of everyday life.</desc>
@@ -2890,20 +2748,45 @@
     <desc lang="en">Anacleto, a former secret agent, is forced to come out of retirement and protect his son, Adolfo, when his arch-enemy, Vazquez, breaks out of prison and targets him</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/5b91edfa-c1b6-486e-b172-76b6ebc0c5d3.png" />
   </programme>
-  <programme start="20260224150543 +0530" stop="20260224181857 +0530" channel="15">
-    <title lang="en">Waqt Ki Awaz</title>
-    <desc lang="en">Lata runs from arranged marriage, falls for truck driver Vishwa. She's devastated when he's arrested for murder.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Mobile/poster/921fa781-3068-4699-b52a-18d78a1af562.png" />
+  <programme start="20260225134134 +0530" stop="20260225151640 +0530" channel="11">
+    <title lang="en">The Free Fall</title>
+    <desc lang="en">The Free Fall is a deeply personal horror thriller, a mind bending pressure cooker that constantly challenges us, hurling us towards one of the most shocking cinematic reveals imaginable. After attempting to take her own life, a young woman must wrestle with an overbearing husband and the only way out of this hell, is to fall into it.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/a6a37240-4e16-487b-82ba-4fa3281b8581.png" />
   </programme>
-  <programme start="20260224181857 +0530" stop="20260224211807 +0530" channel="15">
-    <title lang="en">Ghar Sansar</title>
-    <desc lang="en">Prakash inherits family responsibility after his father's death. Unemployed, he's offered a deal to sell his ancestral home to pay debts. Will he toil for work or take the easy way out?</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Mobile/poster/921fa781-3068-4699-b52a-18d78a1af562.png" />
+  <programme start="20260225151640 +0530" stop="20260225170344 +0530" channel="11">
+    <title lang="en">Haywire</title>
+    <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/8d29b834-766c-4e2d-9c50-b28c4a9ac45b.png" />
   </programme>
-  <programme start="20260224211807 +0530" stop="20260225002710 +0530" channel="15">
-    <title lang="en">Chaand Kaa Tukdaa</title>
-    <desc lang="en">Crime Branch Officer Adhira Dixit risks her life investigating mysterious human and animal killings in the city.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Mobile/poster/921fa781-3068-4699-b52a-18d78a1af562.png" />
+  <programme start="20260225170344 +0530" stop="20260225191650 +0530" channel="11">
+    <title lang="en">Lawless</title>
+    <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/a5186a41-c314-4cae-8103-0920214171fa.png" />
+  </programme>
+  <programme start="20260225191650 +0530" stop="20260225213058 +0530" channel="11">
+    <title lang="en">Bad Samaritan</title>
+    <desc lang="en">Bad Samaritan is a terrifying thriller of two young car valets who use their business as a front to burglarize houses of customers while they eat. Their lives are turned upside down when they rob the home of a demented serial killer after making a shocking discovery of a woman being held captive. They must choose to run and hide, or face the killer whose dark secrets they have just exposed.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/361a3839-f16b-4223-86ae-0cd6db91f238.png" />
+  </programme>
+  <programme start="20260225213058 +0530" stop="20260225230603 +0530" channel="11">
+    <title lang="en">Poseidon Rex</title>
+    <desc lang="en">While searching for lost treasure, deep sea divers unleash a monster that causes havoc and destruction not only in sea but also on land.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/02f74278-a246-4f8b-a981-e9a580ca85c6.png" />
+  </programme>
+  <programme start="20260225230603 +0530" stop="20260226004109 +0530" channel="11">
+    <title lang="en">The Free Fall</title>
+    <desc lang="en">The Free Fall is a deeply personal horror thriller, a mind bending pressure cooker that constantly challenges us, hurling us towards one of the most shocking cinematic reveals imaginable. After attempting to take her own life, a young woman must wrestle with an overbearing husband and the only way out of this hell, is to fall into it.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/a6a37240-4e16-487b-82ba-4fa3281b8581.png" />
+  </programme>
+  <programme start="20260226004109 +0530" stop="20260226022813 +0530" channel="11">
+    <title lang="en">Haywire</title>
+    <desc lang="en">From Academy Award-winning director Steven Soderbergh of Ocean’s 11, 12 &amp; 13 comes HAYWIRE. A Female Assassin covert operative is hired to various global missions to perform jobs which governments can't authorize. When the operation goes awry, she needs to use all of her skills &amp; tricks to escape an international manhunt and eliminate the last remaining link of the conspiracy against her.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/8d29b834-766c-4e2d-9c50-b28c4a9ac45b.png" />
+  </programme>
+  <programme start="20260226022813 +0530" stop="20260226044119 +0530" channel="11">
+    <title lang="en">Lawless</title>
+    <desc lang="en">We control the fear, you understand? Without the fear, we are all good as dead.’ The notorious gangster Al Capone observed that “Prohibition has made nothing but trouble,” and “I am like any other man. All I do is supply a demand.” Acclaimed director delivers a thrillingly vivid slice of American outlaw history in his epic gangster tale, LAWLESS. LAWLESS is the true story of the infamous Bondurant Brothers: three bootlegging siblings who made a run for the American Dream in Prohibition-era Virginia. The film gathers an ensemble of gifted, dynamic new-generation stars – Tom Hardy, Shia LaBeouf, Jessica Chastain, Jason Clarke, Mia Wasikowska, Dane DeHaan – alongside two of the finest actors of their generations, Guy Pearce and Gary Oldman. A riveting, intense story of Crime and Corruption, Loyalty and Love, Brutality and Tenderness, LAWLESS is a rich addition to the American Gangster Canon.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/RUNNTHRS/poster/mobile/hero/a5186a41-c314-4cae-8103-0920214171fa.png" />
   </programme>
   <programme start="20260225002709 +0530" stop="20260225025907 +0530" channel="15">
     <title lang="en">Gair Kaanooni</title>
@@ -2950,190 +2833,145 @@
     <desc lang="en">Dilligent Inspector Samar transfers to a corrupt town. As he cleans up, he attracts a politician who threatens Samar and his family.</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Mobile/poster/921fa781-3068-4699-b52a-18d78a1af562.png" />
   </programme>
-  <programme start="20260224180715 +0530" stop="20260224181314 +0530" channel="16">
+  <programme start="20260226002123 +0530" stop="20260226022246 +0530" channel="15">
+    <title lang="en">Bazaar</title>
+    <desc lang="en">A prophecy states Satpal will be killed by his eldest nephew. He throws his sister's twin son from castle walls. He survives and unites with his brother to defeat their evil uncle.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Mobile/poster/921fa781-3068-4699-b52a-18d78a1af562.png" />
+  </programme>
+  <programme start="20260226022246 +0530" stop="20260226042310 +0530" channel="15">
+    <title lang="en">Lorie</title>
+    <desc lang="en">Hot-tempered Sameer moves to Goa, falls for Rani. New roommate Sunny arrives, complicating things as Rani starts liking both.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Mobile/poster/921fa781-3068-4699-b52a-18d78a1af562.png" />
+  </programme>
+  <programme start="20260226042311 +0530" stop="20260226060635 +0530" channel="15">
+    <title lang="en">Accident On Hill Road</title>
+    <desc lang="en">Drunk Sonam hits a man, his body hitting her windshield. Fearful, she conceals the crime, forever changing her life.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRBOL/Mobile/poster/921fa781-3068-4699-b52a-18d78a1af562.png" />
+  </programme>
+  <programme start="20260225001702 +0530" stop="20260225002514 +0530" channel="16">
+    <title lang="en">Tu Dharti Pe Chahe Jahan Bhi Rahegi</title>
+    <desc lang="en">Tu Dharti Pe Chahe Jahan Bhi Rahegi</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225002515 +0530" stop="20260225002906 +0530" channel="16">
+    <title lang="en">Ek Chumma Tu Mujhko Udhar</title>
+    <desc lang="en">Ek Chumma Tu Mujhko Udhar</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225002906 +0530" stop="20260225003418 +0530" channel="16">
+    <title lang="en">Nazrein Mili Dil Dhadka Meri Dhadkan Ne Kaha Love</title>
+    <desc lang="en">Nazrein Mili Dil Dhadka Meri Dhadkan Ne Kaha Love</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225003418 +0530" stop="20260225004142 +0530" channel="16">
+    <title lang="en">Aap Jo Mere Meet Na Hote Honton Pe Mere [ Part 2 ]</title>
+    <desc lang="en">Aap Jo Mere Meet Na Hote Honton Pe Mere [ Part 2 ]</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225004143 +0530" stop="20260225004720 +0530" channel="16">
+    <title lang="en">Aayegi Har Pal Tujhe Meri Yaad Haan Iss Mulaqat</title>
+    <desc lang="en">Aayegi Har Pal Tujhe Meri Yaad Haan Iss Mulaqat</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225004720 +0530" stop="20260225005442 +0530" channel="16">
+    <title lang="en">Main To Diwani Huii Sapnon Ki Rani Huii Khushboo T</title>
+    <desc lang="en">Main To Diwani Huii Sapnon Ki Rani Huii Khushboo T</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225005442 +0530" stop="20260225010124 +0530" channel="16">
+    <title lang="en">Payaliya…payaliya Ho Ho Ho Teri Payaliya</title>
+    <desc lang="en">Payaliya…Payaliya Ho Ho Ho Teri Payaliya</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225010124 +0530" stop="20260225015919 +0530" channel="16">
+    <title lang="en">Gaano Ki Daraz Se  Ep9</title>
+    <desc lang="en">Gaano Ki Daraz Se is a musical show through which our host Manoj Muntashir shares some amazing anecdotes of artists featured in each episode. These anecdotes are quite interesting as our host shares details about how these songs were conceived, composed and what goes into the making of a song. We bring you a never seen before side of music making with the one and only Manoj Muntashir.</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225015920 +0530" stop="20260225020423 +0530" channel="16">
+    <title lang="en">Main Kya Aise Pyar Karoongi Nakhare Lakh</title>
+    <desc lang="en" />
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225020423 +0530" stop="20260225020907 +0530" channel="16">
+    <title lang="en">Duniya Zamana Dekha Dekhe Sau Thikane Par Tumsa Na</title>
+    <desc lang="en">Duniya Zamana Dekha Dekhe Sau Thikane Par Tumsa Na</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225020907 +0530" stop="20260225021510 +0530" channel="16">
+    <title lang="en">Tu Is Tarah Se Meri Zindagi Mein Shamil[part 1]</title>
+    <desc lang="en">Tu Is Tarah Se Meri Zindagi Mein Shamil[Part 1]</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225021510 +0530" stop="20260225022118 +0530" channel="16">
+    <title lang="en">Prem Ka Rog Laga Mujhe Yeh Prem Ka Rog Laga</title>
+    <desc lang="en">Prem Ka Rog Laga Mujhe Yeh Prem Ka Rog Laga</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225022118 +0530" stop="20260225022832 +0530" channel="16">
+    <title lang="en">Mausam O Mausam Mausam Suhane Aa Gaye Lo Pyar Ke</title>
+    <desc lang="en">Mausam O Mausam Mausam Suhane Aa Gaye Lo Pyar Ke</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225022832 +0530" stop="20260225023352 +0530" channel="16">
+    <title lang="en">Boondein Nahin Sitaarey Tapke Hain Kehkasha Se</title>
+    <desc lang="en">Boondein Nahin Sitaarey Tapke Hain Kehkasha Se</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225023352 +0530" stop="20260225024057 +0530" channel="16">
+    <title lang="en">Paise Ka Kaajal Daike Na Lo Hamri Jaan</title>
+    <desc lang="en">Paise Ka Kaajal Daike Na Lo Hamri Jaan</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225024057 +0530" stop="20260225024500 +0530" channel="16">
+    <title lang="en">Mera Dil Kisne Liya Naam Bataoon Kiska</title>
+    <desc lang="en">Mera Dil Kisne Liya Naam Bataoon Kiska</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225024500 +0530" stop="20260225025144 +0530" channel="16">
+    <title lang="en">Saathi Mere Tum Jo Bane Sara Jahan Mere Saath</title>
+    <desc lang="en">Saathi Mere Tum Jo Bane Sara Jahan Mere Saath</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225025145 +0530" stop="20260225025609 +0530" channel="16">
+    <title lang="en">Mausam Aayega Jayega Pyar Sada Muskayega</title>
+    <desc lang="en">Mausam Aayega Jayega Pyar Sada Muskayega</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225025609 +0530" stop="20260225025918 +0530" channel="16">
+    <title lang="en">O Deewano Dil Sambhalo Dil Churane Aaii Hoon Main</title>
+    <desc lang="en">O Deewano Dil Sambhalo Dil Churane Aaii Hoon Main</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225025918 +0530" stop="20260225030547 +0530" channel="16">
+    <title lang="en">Aaj Imtihan Hai Imtihan Hai Aaj Imtihan Hai Aaj Ki</title>
+    <desc lang="en">Aaj Imtihan Hai Imtihan Hai Aaj Imtihan Hai Aaj Ki</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
+  </programme>
+  <programme start="20260225030547 +0530" stop="20260225031146 +0530" channel="16">
     <title lang="en">Sharab Hai Haa Sharab Hai Shabab Hai Haan Shabab</title>
     <desc lang="en">Sharab Hai Haa Sharab Hai Shabab Hai Haan Shabab</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
   </programme>
-  <programme start="20260224181314 +0530" stop="20260224181816 +0530" channel="16">
+  <programme start="20260225031146 +0530" stop="20260225031648 +0530" channel="16">
     <title lang="en">Chhap Tilak Sab Chhini Re Mose Naina Milaike</title>
     <desc lang="en">Chhap Tilak Sab Chhini Re Mose Naina Milaike</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
   </programme>
-  <programme start="20260224181816 +0530" stop="20260224182343 +0530" channel="16">
+  <programme start="20260225031648 +0530" stop="20260225032215 +0530" channel="16">
     <title lang="en">Kaise Jeet Lete Hain Log Dil Kisi Ka Koii To</title>
     <desc lang="en">Kaise Jeet Lete Hain Log Dil Kisi Ka Koii To</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
   </programme>
-  <programme start="20260224182343 +0530" stop="20260224182825 +0530" channel="16">
+  <programme start="20260225032215 +0530" stop="20260225032657 +0530" channel="16">
     <title lang="en">Ae Ladki Pyar Karegi Tu Mera Aetbaar Karegi</title>
     <desc lang="en">Ae Ladki Pyar Karegi Tu Mera Aetbaar Karegi</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
   </programme>
-  <programme start="20260224182825 +0530" stop="20260224183145 +0530" channel="16">
+  <programme start="20260225032657 +0530" stop="20260225033017 +0530" channel="16">
     <title lang="en">Main Galiyon Ka Raja Tu Mehlon Ki Rani</title>
     <desc lang="en">Main Galiyon Ka Raja Tu Mehlon Ki Rani</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224183145 +0530" stop="20260224183932 +0530" channel="16">
-    <title lang="en">Teri Dulhan Hoon Tere Nakhre Uthaoongi</title>
-    <desc lang="en">Teri Dulhan Hoon Tere Nakhre Uthaoongi</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224183933 +0530" stop="20260224184336 +0530" channel="16">
-    <title lang="en">Bhag Jaoongi Haan Haan Bhag Jaoonni Apne Raja</title>
-    <desc lang="en">Bhag Jaoongi Haan Haan Bhag Jaoonni Apne Raja</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224184336 +0530" stop="20260224184747 +0530" channel="16">
-    <title lang="en">Zara Jaldi Jaldi Mila Karo Na Ji...mushkil Se Thod</title>
-    <desc lang="en">Zara Jaldi Jaldi Mila Karo Na Ji...Mushkil Se Thod</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224184747 +0530" stop="20260224185340 +0530" channel="16">
-    <title lang="en">Chhota Sa Ghar Apna Apne Jeevan Ka Sapna</title>
-    <desc lang="en">Chhota Sa Ghar Apna Apne Jeevan Ka Sapna</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224185340 +0530" stop="20260224185713 +0530" channel="16">
-    <title lang="en">Khuda Ki Qasam Aaj Paise Wasool…koii Mane Ya Na Ma</title>
-    <desc lang="en">Khuda Ki Qasam Aaj Paise Wasool…Koii Mane Ya Na Ma</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224185713 +0530" stop="20260224190037 +0530" channel="16">
-    <title lang="en">Kaun Anjaam-E-Ulfat Nahin Janta Magar Kya</title>
-    <desc lang="en">Kaun Anjaam-E-Ulfat Nahin Janta Magar Kya</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224190037 +0530" stop="20260224190446 +0530" channel="16">
-    <title lang="en">Aaj Kehna Zaroori Hai Ki Tumse Pyaar Hua Hai</title>
-    <desc lang="en">Aaj Kehna Zaroori Hai Ki Tumse Pyaar Hua Hai</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224190446 +0530" stop="20260224190935 +0530" channel="16">
-    <title lang="en">Ek Dil Hai…main Tut Ke Sanam…tujhe Pyar Se Dekhnew</title>
-    <desc lang="en">Ek Dil Hai…Main Tut Ke Sanam…Tujhe Pyar Se Dekhnew</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224190935 +0530" stop="20260224191627 +0530" channel="16">
-    <title lang="en">Jab Tujhe Maine Dekha Nahin Tha Iss Tarah Maine Socha</title>
-    <desc lang="en" />
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224191627 +0530" stop="20260224192028 +0530" channel="16">
-    <title lang="en">Tera Aana Tera Jaana</title>
-    <desc lang="en">Tera Aana Tera Jaana</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224192028 +0530" stop="20260224192907 +0530" channel="16">
-    <title lang="en">Abhi Saans Lene Ki Fursat Nahin Hai Ke Tum</title>
-    <desc lang="en">Abhi Saans Lene Ki Fursat Nahin Hai Ke Tum</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224192907 +0530" stop="20260224193312 +0530" channel="16">
-    <title lang="en">Phool Mangoon Na Bahar Mangoon Main To Sanam Tera</title>
-    <desc lang="en">Phool Mangoon Na Bahar Mangoon Main To Sanam Tera</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224193312 +0530" stop="20260224193947 +0530" channel="16">
-    <title lang="en">Kaali Nagin Ke Jaisi Zulfein Teri Kaali Kaali Saag</title>
-    <desc lang="en">Kaali Nagin Ke Jaisi Zulfein Teri Kaali Kaali Saag</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224193947 +0530" stop="20260224194547 +0530" channel="16">
-    <title lang="en">Teri Ummeed Tera Intezar Karte [part 1 &amp; 2 ]</title>
-    <desc lang="en">Teri Ummeed Tera Intezar Karte [Part 1 &amp; 2 ]</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224194547 +0530" stop="20260224195315 +0530" channel="16">
-    <title lang="en">Pyar Hua Hai Mujhe Aur Tujhe Yeh Maan Bhi Ja Tu</title>
-    <desc lang="en">Pyar Hua Hai Mujhe Aur Tujhe Yeh Maan Bhi Ja Tu</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224195315 +0530" stop="20260224200006 +0530" channel="16">
-    <title lang="en">Raat Baaqi Baat Baaqi Hona Hai Jo Ho Jaane Do</title>
-    <desc lang="en">Raat Baaqi Baat Baaqi Hona Hai Jo Ho Jaane Do</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224200006 +0530" stop="20260224200433 +0530" channel="16">
-    <title lang="en">Teri Sanson Mein Aise Bas Jaoon…tumse Hain Din Mer</title>
-    <desc lang="en">Teri Sanson Mein Aise Bas Jaoon…Tumse Hain Din Mer</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224200433 +0530" stop="20260224200911 +0530" channel="16">
-    <title lang="en">I Love You My Angel …tu Jahan Bhi Jayegi Tere [par</title>
-    <desc lang="en">I Love You My Angel …Tu Jahan Bhi Jayegi Tere [Par</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224200911 +0530" stop="20260224201521 +0530" channel="16">
-    <title lang="en">Bhool Jaayenge Hum Saari Duniya Ke Ghum [ 2 Versio</title>
-    <desc lang="en">Bhool Jaayenge Hum Saari Duniya Ke Ghum [ 2 VERSIO</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224201521 +0530" stop="20260224201856 +0530" channel="16">
-    <title lang="en">Aur Tum Aaye…zindagi Ek Ajab Mod Par Khadi</title>
-    <desc lang="en">Aur Tum Aaye…Zindagi Ek Ajab Mod Par Khadi</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/shemaroo/platform/channels/SMRFGN/Mobile/poster/65c6d3ba-d515-4518-a749-55aa45ca6019.png" />
-  </programme>
-  <programme start="20260224180000 +0530" stop="20260224183000 +0530" channel="56">
-    <title lang="en">Speed 50</title>
-    <desc lang="en">Speed 50</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224183000 +0530" stop="20260224190000 +0530" channel="56">
-    <title lang="en">Maharashtra 20</title>
-    <desc lang="en">Maharashtra 20</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224190000 +0530" stop="20260224193000 +0530" channel="56">
-    <title lang="en">Speed 100</title>
-    <desc lang="en">Speed 100</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224193000 +0530" stop="20260224200000 +0530" channel="56">
-    <title lang="en">Speed 50</title>
-    <desc lang="en">Speed 50</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224200000 +0530" stop="20260224203000 +0530" channel="56">
-    <title lang="en">Big News</title>
-    <desc lang="en">Big News</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224203000 +0530" stop="20260224210000 +0530" channel="56">
-    <title lang="en">Crime 20</title>
-    <desc lang="en">Crime 20</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224210000 +0530" stop="20260224213000 +0530" channel="56">
-    <title lang="en">Badi Khabar</title>
-    <desc lang="en">Badi Khabar</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224213000 +0530" stop="20260224220000 +0530" channel="56">
-    <title lang="en">Speed 100</title>
-    <desc lang="en">Speed 100</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224220000 +0530" stop="20260224223000 +0530" channel="56">
-    <title lang="en">Mausam 20</title>
-    <desc lang="en">Mausam 20</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224223000 +0530" stop="20260224230000 +0530" channel="56">
-    <title lang="en">Modi 20</title>
-    <desc lang="en">Modi 20</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224230000 +0530" stop="20260224233000 +0530" channel="56">
-    <title lang="en">Dharma 20</title>
-    <desc lang="en">Dharma 20</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
-  </programme>
-  <programme start="20260224233000 +0530" stop="20260225000000 +0530" channel="56">
-    <title lang="en">Sports 20</title>
-    <desc lang="en">Sports 20</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
   </programme>
   <programme start="20260225000000 +0530" stop="20260225003000 +0530" channel="56">
     <title lang="en">India Tv Speed News</title>
@@ -3200,20 +3038,69 @@
     <desc lang="en">Duniya 20</desc>
     <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
   </programme>
-  <programme start="20260224180356 +0530" stop="20260224195549 +0530" channel="29">
-    <title lang="en">Vivarium</title>
-    <desc lang="en">A Young couple thinking about buying their perfect single family starter home. They visits a real estate agency where they are received by a strange sales agent and find themselves trapped in a surreal, mysterious, maze-like nightmare.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPHINDI/poster/mobile/hero/46176115-8239-429c-beec-013dbca7e0f6.png" />
+  <programme start="20260225063000 +0530" stop="20260225070000 +0530" channel="56">
+    <title lang="en">Maharashtra 20</title>
+    <desc lang="en">Maharashtra 20</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
   </programme>
-  <programme start="20260224195549 +0530" stop="20260224221304 +0530" channel="29">
-    <title lang="en">The Good Boss</title>
-    <desc lang="en">What makes a Good Boss? Is your boss good? Manipulative? Shamelessly meddles in his employees private lives? Crosses every line imaginable. The Good Boss is a biting character study with academy award winner Javier Bardem. To win the competition, the manipulative "good boss" unknowingly starts an explosive chain reaction with wild consequences.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPHINDI/poster/mobile/hero/7fd3183f-b64e-4bbf-bb06-4715c0492e2e.png" />
+  <programme start="20260225070000 +0530" stop="20260225073000 +0530" channel="56">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">Badi Khabar</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225073000 +0530" stop="20260225080000 +0530" channel="56">
+    <title lang="en">Sports 20</title>
+    <desc lang="en">Sports 20</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225080000 +0530" stop="20260225083000 +0530" channel="56">
+    <title lang="en">Bhavishyavani</title>
+    <desc lang="en">Bhavishyavani</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225083000 +0530" stop="20260225090000 +0530" channel="56">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">Badi Khabar</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225090000 +0530" stop="20260225093000 +0530" channel="56">
+    <title lang="en">Speed 50</title>
+    <desc lang="en">Speed 50</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225093000 +0530" stop="20260225100000 +0530" channel="56">
+    <title lang="en">Speed 100</title>
+    <desc lang="en">Speed 100</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225100000 +0530" stop="20260225110000 +0530" channel="56">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">Badi Khabar</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225110000 +0530" stop="20260225113000 +0530" channel="56">
+    <title lang="en">Speed 50</title>
+    <desc lang="en">Speed 50</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225113000 +0530" stop="20260225120000 +0530" channel="56">
+    <title lang="en">Sports 20</title>
+    <desc lang="en">Sports 20</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225120000 +0530" stop="20260225123000 +0530" channel="56">
+    <title lang="en">Speed 50</title>
+    <desc lang="en">Speed 50</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
+  </programme>
+  <programme start="20260225123000 +0530" stop="20260225130000 +0530" channel="56">
+    <title lang="en">Chunav 20</title>
+    <desc lang="en">Chunav 20</desc>
+    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Mobile/poster/e6d29eb9-271b-4f21-80be-e6da19c6ce06.png" />
   </programme>
   <programme start="20260224221304 +0530" stop="20260225003008 +0530" channel="29">
-    <title lang="en">King Lear</title>
-    <desc lang="en">King Lear poses the question: What does it mean to be human? Its subtitle could be Being Human. Cruelty, barbarity, savagery, kindness, tenderness, love, in a world that gives not very much back. Set in the fictional present, an aging King invites disaster when he abdicates to his corrupt, toadying daughters, and rejects his loving and honest one.</desc>
-    <icon src="https://dnuk7lvye3m03.cloudfront.net/runntv/partners/SUPHINDI/poster/mobile/hero/ec743ee3-ab49-4ff5-8e46-a7ff984fbe8d.png" />
+    <title lang="en">SUPFLM_MOV_00060h</title>
+    <desc lang="en" />
   </programme>
   <programme start="20260225003008 +0530" stop="20260225023214 +0530" channel="29">
     <title lang="en">Cold Skin</title>
